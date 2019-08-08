@@ -1,0 +1,54 @@
+Info : FTDI SWD mode enabled
+adapter speed: 1500 kHz
+cortex_m reset_config sysresetreq
+srst_only separate srst_gates_jtag srst_open_drain connect_deassert_srst
+Warn : libusb_open() failed with LIBUSB_ERROR_NOT_FOUND
+Warn : no ftdi (libusb1) device found
+Warn : unable to open ftdi (libusb1) device with vid 0403, pid 6010, description 'Microfoot Debug V1.00', serial '*' at bus location '*'
+Info : clock speed 1500 kHz
+Info : SWD DPIDR 0x0bc11477
+Info : psoc4.cpu: hardware has 4 breakpoints, 2 watchpoints
+Warn : cannot change stdout mode to binary
+Warn : cannot change stdin mode to binary
+Warn : cannot change stderr mode to binary
+    TargetName         Type       Endian TapName            State       
+--  ------------------ ---------- ------ ------------------ ------------
+ 0* psoc4.cpu          cortex_m   little psoc4.cpu          running
+target halted due to debug-request, current mode: Thread 
+xPSR: 0x21000000 pc: 0x00004b58 msp: 0x20001fd8
+Info : PSoC4100S family detected.
+Info : flash size = 64 kbytes
+Info : Autoerase enabled, erase command ignored
+erased address 0x00000000 (length 65536) in 0.000000s (inf KiB/s)
+target halted due to debug-request, current mode: Thread 
+xPSR: 0xa1000000 pc: 0x10000040 msp: 0x20001fe8
+pc (/32): 0x10000040
+pc (/32): 0x00003318
+msp (/32): 0x20002000
+** Programming Started **
+auto erase enabled
+Info : Autoerase enabled, erase command ignored
+Info : Flash Download Started
+Info : Downloaded  2048 of 42112 bytes
+Info : Downloaded  4224 of 42112 bytes
+Info : Downloaded  6400 of 42112 bytes
+Info : Downloaded  8576 of 42112 bytes
+Info : Downloaded 10752 of 42112 bytes
+Info : Downloaded 12928 of 42112 bytes
+Info : Downloaded 15104 of 42112 bytes
+Info : Downloaded 17280 of 42112 bytes
+Info : Downloaded 19456 of 42112 bytes
+Info : Downloaded 21632 of 42112 bytes
+Info : Downloaded 23808 of 42112 bytes
+Info : Downloaded 25984 of 42112 bytes
+Info : Downloaded 28160 of 42112 bytes
+Info : Downloaded 30336 of 42112 bytes
+Info : Downloaded 32512 of 42112 bytes
+Info : Downloaded 34688 of 42112 bytes
+Info : Downloaded 36864 of 42112 bytes
+Info : Downloaded 39040 of 42112 bytes
+Info : Downloaded 41216 of 42112 bytes
+Info : Flash Download Completed
+wrote 42112 bytes from file SLAVE//bin//Debug//SLAVE_AXM0f2-GNU.elf in 10.029174s (4.101 KiB/s)
+** Programming Finished **
+Info : SWD DPIDR 0x0bc11477

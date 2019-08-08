@@ -1,0 +1,64 @@
+Info : FTDI SWD mode enabled
+adapter speed: 1500 kHz
+cortex_m reset_config sysresetreq
+srst_only separate srst_gates_jtag srst_open_drain connect_deassert_srst
+Warn : libusb_open() failed with LIBUSB_ERROR_NOT_FOUND
+Warn : no ftdi (libusb1) device found
+Warn : unable to open ftdi (libusb1) device with vid 0403, pid 6010, description 'Microfoot Debug V1.00', serial '*' at bus location '*'
+Info : clock speed 1500 kHz
+Info : SWD DPIDR 0x0bc11477
+Info : psoc4.cpu: hardware has 4 breakpoints, 2 watchpoints
+Warn : cannot change stdout mode to binary
+Warn : cannot change stdin mode to binary
+Warn : cannot change stderr mode to binary
+    TargetName         Type       Endian TapName            State       
+--  ------------------ ---------- ------ ------------------ ------------
+ 0* psoc4.cpu          cortex_m   little psoc4.cpu          running
+target halted due to debug-request, current mode: Thread 
+xPSR: 0x21000000 pc: 0x000060a4 msp: 0x20001fd8
+Info : PSoC4100S family detected.
+Info : flash size = 64 kbytes
+Info : Autoerase enabled, erase command ignored
+erased address 0x00000000 (length 65536) in 0.000950s (67368.422 KiB/s)
+target halted due to debug-request, current mode: Thread 
+xPSR: 0xa1000000 pc: 0x10000040 msp: 0x20001fe8
+pc (/32): 0x10000040
+pc (/32): 0x000041C0
+msp (/32): 0x20002000
+** Programming Started **
+auto erase enabled
+Info : Autoerase enabled, erase command ignored
+Info : Flash Download Started
+Info : Downloaded  1280 of 32768 bytes
+Info : Downloaded  2048 of 32768 bytes
+Info : Downloaded  2816 of 32768 bytes
+Info : Downloaded  4224 of 32768 bytes
+Info : Downloaded  5376 of 32768 bytes
+Info : Downloaded  6528 of 32768 bytes
+Info : Downloaded  7296 of 32768 bytes
+Info : Downloaded  8704 of 32768 bytes
+Info : Downloaded  9472 of 32768 bytes
+Info : Downloaded 10880 of 32768 bytes
+Info : Downloaded 11648 of 32768 bytes
+Info : Downloaded 13056 of 32768 bytes
+Info : Downloaded 14080 of 32768 bytes
+Info : Downloaded 15488 of 32768 bytes
+Info : Downloaded 16000 of 32768 bytes
+Info : Downloaded 16896 of 32768 bytes
+Info : Downloaded 18304 of 32768 bytes
+Info : Downloaded 19712 of 32768 bytes
+Info : Downloaded 20480 of 32768 bytes
+Info : Downloaded 21248 of 32768 bytes
+Info : Downloaded 22656 of 32768 bytes
+Info : Downloaded 23680 of 32768 bytes
+Info : Downloaded 24960 of 32768 bytes
+Info : Downloaded 26368 of 32768 bytes
+Info : Downloaded 27136 of 32768 bytes
+Info : Downloaded 27904 of 32768 bytes
+Info : Downloaded 29312 of 32768 bytes
+Info : Downloaded 30720 of 32768 bytes
+Info : Downloaded 31488 of 32768 bytes
+Info : Flash Download Completed
+wrote 32768 bytes from file MASTER//bin//Debug//MASTER_AXM0f2-GNU.elf in 16.730492s (1.913 KiB/s)
+** Programming Finished **
+Info : SWD DPIDR 0x0bc11477

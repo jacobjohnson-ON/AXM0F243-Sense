@@ -1,0 +1,560 @@
+# depslib dependency file v1.0
+1558366574 source:c:\radiolab_project\axm0f243-multisense_ide1_23\ax_radio_lab_output\config.c
+	"../COMMON/easyax5043.h"
+	<libmfradio.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<axm0f243.h>
+	<axm0f2_pin.h>
+
+1558355015 c:\radiolab_project\axm0f243-multisense_ide1_23\common\easyax5043.h
+	"axradio.h"
+	<stdbool.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1558355015 c:\radiolab_project\axm0f243-multisense_ide1_23\common\axradio.h
+	<libmftypes.h>
+
+1558366574 source:c:\radiolab_project\axm0f243-multisense_ide1_23\ax_radio_lab_output\configmaster.c
+	"../COMMON/axradio.h"
+
+1558355015 source:c:\radiolab_project\axm0f243-multisense_ide1_23\common\display_com0.c
+	"display_com0.h"
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052f143.h>
+	<libmf.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+
+1558355015 c:\radiolab_project\axm0f243-multisense_ide1_23\common\display_com0.h
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	<libmf.h>
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1559657978 c:\radiolab_project\axm0f243-multisense_ide1_23\ax_radio_lab_output\configmaster.h
+	"../COMMON/axradio.h"
+
+1558366574 c:\radiolab_project\axm0f243-multisense_ide1_23\ax_radio_lab_output\configslave.h
+	"../COMMON/axradio.h"
+
+1558355015 source:c:\radiolab_project\axm0f243-multisense_ide1_23\common\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<libmfdbglink.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	<string.h>
+
+1558355015 source:c:\radiolab_project\axm0f243-multisense_ide1_23\common\misc.c
+	<libmfuart.h>
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libaxlcd2.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	"misc.h"
+	"../COMMON/axradio.h"
+	"display_com0.h"
+
+1558355015 c:\radiolab_project\axm0f243-multisense_ide1_23\common\misc.h
+	<libmftypes.h>
+	"../COMMON/axradio.h"
+
+1558355015 source:c:\radiolab_project\axm0f243-multisense_ide1_23\common\stackheap.s
+
+1559657462 source:c:\radiolab_project\axm0f243-multisense_ide1_23\master\main.c
+	"../AX_Radio_Lab_output/configmaster.h"
+	<axm0f243.h>
+	"axm0_config.h"
+	"axm0f2_pin.h"
+	"axm0f2.h"
+	<stdbool.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	"libmfosc.h"
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	<stdio.h>
+	<string.h>
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"libmfi2cm.h"
+	"i2c.h"
+	<libminikitleds.h>
+	"../COMMON/BMA400.h"
+	"../COMMON/bme680.h"
+
+1558355015 c:\radiolab_project\axm0f243-multisense_ide1_23\common\configcommon.h
+
+1559655147 source:c:\radiolab_project\axm0f243-multisense_ide1_23\common\bma400.c
+	"BMA400.h"
+
+1559640000 c:\radiolab_project\axm0f243-multisense_ide1_23\common\bma400.h
+	"libmftypes.h"
+	<stdbool.h>
+	"i2c.h"
+	"libmfi2cm.h"
+	"BMA400_v2_defs.h"
+
+1558955512 source:c:\radiolab_project\axm0f243-multisense_ide1_23\common\bme680.c
+	"bme680.h"
+
+1558953981 c:\radiolab_project\axm0f243-multisense_ide1_23\common\bme680.h
+	"bme680_defs.h"
+	"i2c.h"
+
+1539173823 c:\radiolab_project\axm0f243-multisense_ide1_23\common\bme680_defs.h
+	<linux/types.h>
+	<linux/kernel.h>
+	<stdint.h>
+	<stddef.h>
+
+1559636416 c:\radiolab_project\axm0f243-multisense_ide1_23\common\bma400_v2_defs.h
+	"libmftypes.h"
+	<stdbool.h>
+	"i2c.h"
+	"libmfi2cm.h"
+
+1559655169 source:c:\radiolab_project\axm0f243-multisense_ide1_23\common\custom_stack.c
+
+1559637664 c:\radiolab_project\axm0f243-multisense_ide1_23\common\custom_stack.h
+	"../COMMON/easyax5043.h"
+
+1561462695 source:u:\sense\ax_radio_lab_output\config.c
+	"../COMMON/easyax5043.h"
+	<libmfradio.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<axm0f243.h>
+	<axm0f2_pin.h>
+
+1558355015 u:\sense\common\easyax5043.h
+	"axradio.h"
+	<stdbool.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1558355015 u:\sense\common\axradio.h
+	<libmftypes.h>
+
+1561462695 source:u:\sense\ax_radio_lab_output\configmaster.c
+	"../COMMON/axradio.h"
+
+1560501106 source:u:\sense\common\bma400.c
+	"BMA400.h"
+
+1560260564 u:\sense\common\bma400.h
+	"libmftypes.h"
+	<stdbool.h>
+	"i2c.h"
+	"libmfi2cm.h"
+	"BMA400_defs.h"
+
+1559912900 u:\sense\common\bma400_v2_defs.h
+	"libmftypes.h"
+	<stdbool.h>
+	"i2c.h"
+	"libmfi2cm.h"
+
+1560501106 source:u:\sense\common\bme680.c
+	"bme680.h"
+
+1560501106 u:\sense\common\bme680.h
+	"bme680_defs.h"
+	"i2c.h"
+
+1560765331 u:\sense\common\bme680_defs.h
+	<linux/types.h>
+	<linux/kernel.h>
+	<stdint.h>
+	<stddef.h>
+
+1559655169 source:u:\sense\common\custom_stack.c
+
+1558355015 source:u:\sense\common\display_com0.c
+	"display_com0.h"
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052f143.h>
+	<libmf.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+
+1558355015 u:\sense\common\display_com0.h
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	<libmf.h>
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1561462695 u:\sense\ax_radio_lab_output\configmaster.h
+	"../COMMON/axradio.h"
+
+1561462695 u:\sense\ax_radio_lab_output\configslave.h
+	"../COMMON/axradio.h"
+
+1558355015 source:u:\sense\common\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<libmfdbglink.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	<string.h>
+
+1558355015 source:u:\sense\common\misc.c
+	<libmfuart.h>
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libaxlcd2.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	"misc.h"
+	"../COMMON/axradio.h"
+	"display_com0.h"
+
+1558355015 u:\sense\common\misc.h
+	<libmftypes.h>
+	"../COMMON/axradio.h"
+
+1558355015 source:u:\sense\common\stackheap.s
+
+1561449832 source:u:\sense\master\main.c
+	"../AX_Radio_Lab_output/configmaster.h"
+	<axm0f243.h>
+	"axm0_config.h"
+	"axm0f2_pin.h"
+	"axm0f2.h"
+	<stdbool.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	"libmfosc.h"
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	<stdio.h>
+	<string.h>
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"libmfi2cm.h"
+	"i2c.h"
+	<libminikitleds.h>
+	"../COMMON/BMA400.h"
+	"../COMMON/bme680.h"
+
+1558355015 u:\sense\common\configcommon.h
+
+1560260842 u:\sense\common\bma400_defs.h
+	"libmftypes.h"
+	<stdbool.h>
+	"i2c.h"
+	"libmfi2cm.h"
+
+1561018809 source:u:\sense\common\framing.c
+
+1562060286 source:u:\axm0f243-sense\ax_radio_lab_output\config.c
+	"../COMMON/easyax5043.h"
+	<libmfradio.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<axm0f243.h>
+	<axm0f2_pin.h>
+
+1558355015 u:\axm0f243-sense\common\easyax5043.h
+	"axradio.h"
+	<stdbool.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1558355015 u:\axm0f243-sense\common\axradio.h
+	<libmftypes.h>
+
+1562060286 source:u:\axm0f243-sense\ax_radio_lab_output\configmaster.c
+	"../COMMON/axradio.h"
+
+1560501106 source:u:\axm0f243-sense\common\bma400.c
+	"BMA400.h"
+
+1560260564 u:\axm0f243-sense\common\bma400.h
+	"libmftypes.h"
+	<stdbool.h>
+	"i2c.h"
+	"libmfi2cm.h"
+	"BMA400_defs.h"
+
+1560260842 u:\axm0f243-sense\common\bma400_defs.h
+	"libmftypes.h"
+	<stdbool.h>
+	"i2c.h"
+	"libmfi2cm.h"
+
+1561719523 source:u:\axm0f243-sense\common\bme680.c
+	"bme680.h"
+
+1560501106 u:\axm0f243-sense\common\bme680.h
+	"bme680_defs.h"
+	"i2c.h"
+
+1561716974 u:\axm0f243-sense\common\bme680_defs.h
+	<linux/types.h>
+	<linux/kernel.h>
+	<stdint.h>
+	<stddef.h>
+
+1558355015 source:u:\axm0f243-sense\common\display_com0.c
+	"display_com0.h"
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052f143.h>
+	<libmf.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+
+1558355015 u:\axm0f243-sense\common\display_com0.h
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	<libmf.h>
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1562576408 u:\axm0f243-sense\ax_radio_lab_output\configmaster.h
+	"../COMMON/axradio.h"
+
+1562576408 u:\axm0f243-sense\ax_radio_lab_output\configslave.h
+	"../COMMON/axradio.h"
+
+1558355015 source:u:\axm0f243-sense\common\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<libmfdbglink.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	<string.h>
+
+1561018809 source:u:\axm0f243-sense\common\framing.c
+
+1558355015 source:u:\axm0f243-sense\common\misc.c
+	<libmfuart.h>
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libaxlcd2.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	"misc.h"
+	"../COMMON/axradio.h"
+	"display_com0.h"
+
+1558355015 u:\axm0f243-sense\common\misc.h
+	<libmftypes.h>
+	"../COMMON/axradio.h"
+
+1558355015 source:u:\axm0f243-sense\common\stackheap.s
+
+1562060120 source:u:\axm0f243-sense\master\main.c
+	"../AX_Radio_Lab_output/configmaster.h"
+	<axm0f243.h>
+	"axm0_config.h"
+	"axm0f2_pin.h"
+	"axm0f2.h"
+	<stdbool.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	"libmfosc.h"
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	<stdio.h>
+	<string.h>
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"libmfi2cm.h"
+	"i2c.h"
+	<libminikitleds.h>
+	"../COMMON/BMA400.h"
+	"../COMMON/bme680.h"
+
+1558355015 u:\axm0f243-sense\common\configcommon.h
+
+1564174034 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\ax_radio_lab_output\config.c
+	"../COMMON/easyax5043.h"
+	<libmfradio.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<axm0f243.h>
+	<axm0f2_pin.h>
+
+1562779406 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\easyax5043.h
+	"axradio.h"
+	<stdbool.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1562779406 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\axradio.h
+	<libmftypes.h>
+
+1564174034 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\ax_radio_lab_output\configmaster.c
+	"../COMMON/axradio.h"
+
+1562779406 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\bma400.c
+	"BMA400.h"
+
+1562779406 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\bma400.h
+	"libmftypes.h"
+	<stdbool.h>
+	"i2c.h"
+	"libmfi2cm.h"
+	"BMA400_defs.h"
+
+1562779406 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\bma400_defs.h
+	"libmftypes.h"
+	<stdbool.h>
+	"i2c.h"
+	"libmfi2cm.h"
+
+1562779406 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\bme680.c
+	"bme680.h"
+
+1562779406 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\bme680.h
+	"bme680_defs.h"
+	"i2c.h"
+
+1562779406 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\bme680_defs.h
+	<linux/types.h>
+	<linux/kernel.h>
+	<stdint.h>
+	<stddef.h>
+
+1562779406 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\display_com0.c
+	"display_com0.h"
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052f143.h>
+	<libmf.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+
+1562779406 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\display_com0.h
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	<libmf.h>
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1564174034 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\ax_radio_lab_output\configmaster.h
+	"../COMMON/axradio.h"
+
+1564174034 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\ax_radio_lab_output\configslave.h
+	"../COMMON/axradio.h"
+
+1562779406 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<libmfdbglink.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	<string.h>
+
+1562779406 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\framing.c
+
+1562779406 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\misc.c
+	<libmfuart.h>
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libaxlcd2.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	"misc.h"
+	"../COMMON/axradio.h"
+	"display_com0.h"
+
+1562779406 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\misc.h
+	<libmftypes.h>
+	"../COMMON/axradio.h"
+
+1562779406 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\stackheap.s
+
+1564174065 source:c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\master\main.c
+	"../AX_Radio_Lab_output/configmaster.h"
+	<axm0f243.h>
+	"axm0_config.h"
+	"axm0f2_pin.h"
+	"axm0f2.h"
+	<stdbool.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	"libmfosc.h"
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	<stdio.h>
+	<string.h>
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	"libmfi2cm.h"
+	"i2c.h"
+	<libminikitleds.h>
+	"../COMMON/BMA400.h"
+	"../COMMON/bme680.h"
+
+1562779406 c:\users\fg8dfg\documents\0_wcs_apps\projects\201906_bod\strata + subghz\fw\axm0f243-sense\common\configcommon.h
+

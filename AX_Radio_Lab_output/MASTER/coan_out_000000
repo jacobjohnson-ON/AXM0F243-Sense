@@ -1,0 +1,76 @@
+/**
+*******************************************************************************************************
+* @file MASTER\main.c
+* @brief Code skeleton for MASTER module, illustrating periodic or on-demand transmission of packets.
+*        The packet format is determined by AX-RadioLAB_output\config.c, produced by the AX-RadioLab GUI
+* @internal
+* @author   Thomas Sailer, Janani Chellappan, Srinivasan Tamilarasan
+* $Rev: $
+* $Date: $
+********************************************************************************************************
+* Copyright 2016 Semiconductor Components Industries LLC (d/b/a “ON Semiconductor”).
+* All rights reserved.  This software and/or documentation is licensed by ON Semiconductor
+* under limited terms and conditions.  The terms and conditions pertaining to the software
+* and/or documentation are available at http://www.onsemi.com/site/pdf/ONSEMI_T&C.pdf
+* (“ON Semiconductor Standard Terms and Conditions of Sale, Section 8 Software”) and
+* if applicable the software license agreement.  Do not use this software and/or
+* documentation unless you have carefully read and you agree to the limited terms and
+* conditions.  By using this software and/or documentation, you agree to the limited
+* terms and conditions.
+*
+* THIS SOFTWARE IS PROVIDED "AS IS".  NO WARRANTIES, WHETHER EXPRESS, IMPLIED
+* OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF
+* MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE APPLY TO THIS SOFTWARE.
+* ON SEMICONDUCTOR SHALL NOT, IN ANY CIRCUMSTANCES, BE LIABLE FOR SPECIAL,
+* INCIDENTAL, OR CONSEQUENTIAL DAMAGES, FOR ANY REASON WHATSOEVER.
+* @endinternal
+*
+* @ingroup TEMPLATE_FIRMWARE_5043
+*
+* @details
+*/
+
+#include "../AX_Radio_Lab_output/configmaster.h"
+/// axm0_uart req for both; remove warnings
+#include <axm0f243.h>
+#include "axm0_config.h"
+#include "axm0f2_pin.h"
+#include "axm0f2.h"
+#include <stdbool.h>
+#include <libmftypes.h>
+#include <libmfradio.h>
+#include <libmfflash.h>
+#include <libmfwtimer.h>
+#include "libmfosc.h"
+
+#ifdef USE_COM0
+#include <libmfuart0.h>
+#endif // USE_COM0
+
+#ifdef USE_LCD
+#include <libaxlcd2.h>
+#endif // USE_LCD
+
+#ifdef USE_DBGLINK
+#include <libmfdbglink.h>
+#include <libmfuart.h>
+#include <libmfuart0.h>
+#include <libmfuart1.h>
+#endif // USE_DBGLINK
+
+#if defined(USE_LCD) || defined(USE_COM0)
+#define USE_DISPLAY
+#endif // defined(USE_LCD) || defined(USE_COM0)
+
+#include "../COMMON/display_com0.h"
+
+    extern void RADIO_IRQ(void);
+    #ifdef TX_ON_DEMAND
+        uint8_t button_pressed = 0;
+        const bool txondemand_mode = 1;
+    #else
+        const bool txondemand_mode = 0;
+    #endif // TX_ON_DEMAND
+        const bool AxM0_Mini_Kit = 1;
+
+    #include <libminikitleds.h>

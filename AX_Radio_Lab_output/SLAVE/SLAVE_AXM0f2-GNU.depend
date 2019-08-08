@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1559825061 source:u:\sense\ax_radio_lab_output\config.c
+	"../COMMON/easyax5043.h"
+	<libmfradio.h>
+	<libmftypes.h>
+	<libmfcrc.h>
+	<axm0f243.h>
+	<axm0f2_pin.h>
+
+1558355015 u:\sense\common\easyax5043.h
+	"axradio.h"
+	<stdbool.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+
+1558355015 u:\sense\common\axradio.h
+	<libmftypes.h>
+
+1560329600 source:u:\sense\ax_radio_lab_output\configslave.c
+	"../COMMON/axradio.h"
+
+1558355015 source:u:\sense\common\display_com0.c
+	"display_com0.h"
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052f143.h>
+	<libmf.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+
+1558355015 u:\sense\common\display_com0.h
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	<libmf.h>
+	"libmfuart0.h"
+	"libmfuart1.h"
+
+1559825061 u:\sense\ax_radio_lab_output\configmaster.h
+	"../COMMON/axradio.h"
+
+1559825061 u:\sense\ax_radio_lab_output\configslave.h
+	"../COMMON/axradio.h"
+
+1558355015 source:u:\sense\common\easyax5043.c
+	"easyax5043.h"
+	<libmfcrc.h>
+	<libmfradio.h>
+	<libmfwtimer.h>
+	<stdlib.h>
+	<string.h>
+	<axm0f143.h>
+	<axm0f243.h>
+	<libmfdbglink.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	<string.h>
+
+1558355015 source:u:\sense\common\misc.c
+	<libmfuart.h>
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052.h>
+	<libmftypes.h>
+	<libmfwtimer.h>
+	<libaxlcd2.h>
+	"../AX_Radio_Lab_output/configmaster.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	"misc.h"
+	"../COMMON/axradio.h"
+	"display_com0.h"
+
+1558355015 u:\sense\common\misc.h
+	<libmftypes.h>
+	"../COMMON/axradio.h"
+
+1558355015 source:u:\sense\common\stackheap.s
+
+1558355067 source:u:\sense\slave\display.c
+	"../AX_Radio_Lab_output/configslave.h"
+	<axm0.h>
+	<axm0f2.h>
+	<ax8052.h>
+	<libmftypes.h>
+	<libaxlcd2.h>
+	<libmfwtimer.h>
+	<libmfuart0.h>
+	<libaxlcd2.h>
+	<libmfdbglink.h>
+	"../COMMON/display_com0.h"
+	"../COMMON/misc.h"
+
+1558355067 source:u:\sense\slave\lposc.c
+	<axm0f143.h>
+	<axm0f243.h>
+	<ax8052f143.h>
+	<libmftypes.h>
+	<libmfradio.h>
+	"../COMMON/misc.h"
+	"../AX_Radio_Lab_output/configslave.h"
+	"../COMMON/easyax5043.h"
+
+1560343299 source:u:\sense\slave\main.c
+	"../AX_Radio_Lab_output/configslave.h"
+	<axm0f243.h>
+	"axm0_config.h"
+	"axm0f2_pin.h"
+	"axm0f2.h"
+	<libmftypes.h>
+	<libmfradio.h>
+	<libmfflash.h>
+	<libmfwtimer.h>
+	"libmfosc.h"
+	<libmfuart0.h>
+	<libaxlcd2.h>
+	<libmfdbglink.h>
+	<libmfuart.h>
+	<libmfuart0.h>
+	<libmfuart1.h>
+	"../COMMON/display_com0.h"
+	<libminikitleds.h>
+	"../COMMON/misc.h"
+	"../COMMON/configcommon.h"
+	<stdbool.h>
+
+1558355015 u:\sense\common\configcommon.h
+

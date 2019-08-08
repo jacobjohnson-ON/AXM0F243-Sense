@@ -1,0 +1,13 @@
+digraph "COMMON/easyax5043.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node4 [label="COMMON/easyax5043.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Definition for Radio communication states."];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="COMMON/easyax5043.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$easyax5043_8c.html",tooltip="Handle data communication between MCU & Radio."];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="SLAVE/lposc.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$lposc_8c.html",tooltip="Calibration of LPOSC Oscillator."];
+  Node4 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="TESTS/main.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_t_e_s_t_s_2main_8c.html",tooltip="Provides basic evaluation functions like transmitting CW or measuring BER from a 101010 bit stream Ra..."];
+}

@@ -1,0 +1,11 @@
+digraph "COMMON/BMA400_v2_defs.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node5 [label="COMMON/BMA400_v2_defs.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="List of all register you need with LABEL and different enum for a clear application code for BMA400 a..."];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="COMMON/BMA400.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_b_m_a400_8h.html",tooltip="Library to handle communication between MCU & BMA400 using I2C driver (3 axis accelerometer from Bosh..."];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="COMMON/BMA400.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_b_m_a400_8c.html",tooltip="Handle data communication between MCU & BMA400 ( 3 axis accelerometer from Bosh Sensortec)"];
+}

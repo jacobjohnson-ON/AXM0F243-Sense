@@ -1,0 +1,2062 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+                              (Reset_Handler)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o) (SystemInit)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+                              obj\Debug\AX_Radio_Lab_output\config.o (crc_crc16)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+                              obj\Debug\COMMON\easyax5043.o (pn9_advance_bits)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+                              obj\Debug\COMMON\easyax5043.o (pn9_advance_byte)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+                              obj\Debug\COMMON\easyax5043.o (pn9_buffer)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+                              obj\Debug\COMMON\easyax5043.o (signextend16)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+                              obj\Debug\COMMON\easyax5043.o (signextend20)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+                              obj\Debug\COMMON\easyax5043.o (signextend24)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+                              obj\Debug\COMMON\easyax5043.o (checksignedlimit16)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+                              obj\Debug\COMMON\easyax5043.o (signedlimit16)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+                              obj\Debug\COMMON\easyax5043.o (checksignedlimit32)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o) (delay)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+                              obj\Debug\SLAVE\main.o (get_startcause)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+                              obj\Debug\SLAVE\lposc.o (enter_standby)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+                              obj\Debug\COMMON\easyax5043.o (_radio_read8)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+                              obj\Debug\COMMON\easyax5043.o (_radio_read16)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+                              obj\Debug\COMMON\easyax5043.o (_radio_read24)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+                              obj\Debug\AX_Radio_Lab_output\config.o (_radio_write8)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+                              obj\Debug\SLAVE\main.o (wtimer_init)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+                              obj\Debug\COMMON\easyax5043.o (wtimer_add_callback)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+                              obj\Debug\COMMON\easyax5043.o (wtimer_remove_callback)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+                              obj\Debug\SLAVE\main.o (wtimer0_setclksrc)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+                              obj\Debug\SLAVE\main.o (wtimer1_setclksrc)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+                              obj\Debug\COMMON\easyax5043.o (wtimer0_addabsolute)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+                              obj\Debug\COMMON\easyax5043.o (wtimer0_addrelative)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+                              obj\Debug\COMMON\easyax5043.o (wtimer1_addrelative)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+                              obj\Debug\COMMON\easyax5043.o (wtimer0_curtime)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o) (wtimer1_remove)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+                              obj\Debug\COMMON\easyax5043.o (wtimer_remove)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+                              obj\Debug\SLAVE\main.o (uart_timer1_baud)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+                              obj\Debug\SLAVE\jci.o (uart0_rxcount)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+                              obj\Debug\SLAVE\printf.o (uart0_tx)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+                              obj\Debug\SLAVE\jci.o (uart0_rx)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+                              obj\Debug\SLAVE\jci.o (uart0_writestr)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+                              obj\Debug\COMMON\easyax5043.o (ax5043_readfifo)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+                              obj\Debug\COMMON\easyax5043.o (ax5043_writefifo)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+                              obj\Debug\COMMON\easyax5043.o (ax5043_reset)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+                              obj\Debug\SLAVE\main.o (ax5043_commsleepexit)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+                              obj\Debug\COMMON\easyax5043.o (ax5043_enter_deepsleep)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+                              obj\Debug\SLAVE\main.o (setup_osc_calibration)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o) (crc_crc16_byte)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o) (crc_crc16_table)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o) (enter_sleep)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o) (enter_sleep_cont)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o) (wtimer_removecb_core)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o) (axm0_uart_rxbufptr)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o) (_uart0_descriptor)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o) (uart0_txbuffer_size)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o) (uart0_rxbuffer_size)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o) (radio_wakeup_deepsleep_core)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o) (ax5043_rclk_enable)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o) (libmf_num16_digit)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o) (libmf_num32_digit)
+C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+                              C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o) (wtimer_standby)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                              obj\Debug\COMMON\easyax5043.o (__gnu_thumb1_case_uqi)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+                              obj\Debug\COMMON\easyax5043.o (__gnu_thumb1_case_uhi)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_uidiv)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_idiv)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_arm_cmpdf2.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_dcmpeq)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_uldivmod)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_fixunsdfsi.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_d2uiz)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(adddf3.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_dadd)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(divdf3.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_ddiv)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(eqdf2.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_arm_cmpdf2.o) (__eqdf2)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(gedf2.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_arm_cmpdf2.o) (__gedf2)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(ledf2.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_arm_cmpdf2.o) (__ledf2)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(muldf3.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_dmul)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(subdf3.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_dsub)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(fixdfsi.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_d2iz)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatsidf.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_i2d)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatunsidf.o)
+                              obj\Debug\SLAVE\printf.o (__aeabi_ui2d)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(extendsfdf2.o)
+                              obj\Debug\SLAVE\jci.o (__aeabi_f2d)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(adddf3.o) (__clzsi2)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o) (__clzdi2)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcpy-stub.o)
+                              obj\Debug\COMMON\easyax5043.o (memcpy)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o)
+                              obj\Debug\SLAVE\jci.o (strstr)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memchr-stub.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o) (memchr)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcmp.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o) (memcmp)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strchr.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o) (strchr)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o) (_exit)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00010000         xr
+RAM              0x20000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD obj\Debug\AX_Radio_Lab_output\config.o
+LOAD obj\Debug\AX_Radio_Lab_output\configslave.o
+LOAD obj\Debug\COMMON\display_com0.o
+LOAD obj\Debug\COMMON\easyax5043.o
+LOAD obj\Debug\COMMON\misc.o
+LOAD obj\Debug\COMMON\stackheap.o
+LOAD obj\Debug\SLAVE\display.o
+LOAD obj\Debug\SLAVE\jci.o
+LOAD obj\Debug\SLAVE\lposc.o
+LOAD obj\Debug\SLAVE\main.o
+LOAD obj\Debug\SLAVE\printf.o
+LOAD C:\Program Files (x86)\ON Semiconductor\AXSDB\libaxdvk2\arm\libaxdvk2f2.a
+LOAD C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libstdc++.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libm.a
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+
+.text           0x00000000     0x9f3c
+ *(.vectors)
+ .vectors       0x00000000       0x90 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+                0x00000000                __Vectors
+                0x00000090                __Vectors_End = .
+                0x00000090                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x00000090                __end__ = .
+ *(.text*)
+ .text          0x00000090        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .text          0x00000090       0x60 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .text          0x000000f0       0x78 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x000000f0                _start
+                0x000000f0                _mainCRTStartup
+ .text          0x00000168      0x8a8 obj\Debug\AX_Radio_Lab_output\config.o
+                0x00000168                ax5043_set_registers
+                0x0000072c                ax5043_set_registers_tx
+                0x0000076c                ax5043_set_registers_rx
+                0x000007ac                ax5043_set_registers_rxwor
+                0x000007d4                ax5043_set_registers_rxcont
+                0x000007fc                ax5043_set_registers_rxcont_singleparamset
+                0x00000830                axradio_setup_pincfg1
+                0x00000832                axradio_setup_pincfg2
+                0x00000834                axradio_setup_pincfg3
+                0x00000844                axradio_conv_freq_fromhz
+                0x000008e4                axradio_conv_freq_tohz
+                0x00000998                axradio_conv_freq_fromreg
+                0x000009b6                axradio_conv_timeinterval_totimer0
+                0x000009c6                axradio_byteconv
+                0x000009c8                axradio_byteconv_buffer
+                0x000009ca                axradio_framing_check_crc
+                0x000009ec                axradio_framing_append_crc
+ .text          0x00000a10        0x0 obj\Debug\AX_Radio_Lab_output\configslave.o
+ .text          0x00000a10        0x0 obj\Debug\COMMON\display_com0.o
+ .text          0x00000a10     0x2500 obj\Debug\COMMON\easyax5043.o
+                0x00000f08                axradio_conv_time_totimer0
+                0x00000f24                ax5043_receiver_on_continuous
+                0x00000fac                ax5043_receiver_on_wor
+                0x0000106c                ax5043_off_xtal
+                0x000010a0                ax5043_off
+                0x00001484                axradio_wait_for_xtal
+                0x000014c8                axradio_init
+                0x00001954                axradio_cansleep
+                0x00001970                axradio_get_mode
+                0x0000197c                axradio_set_channel
+                0x00001a3c                axradio_get_channel
+                0x00001a48                axradio_get_pllrange
+                0x00001a60                axradio_get_pllvcoi
+                0x00001b20                ax5043_init_registers_tx
+                0x00001b2c                ax5043_prepare_tx
+                0x00002134                ax5043_init_registers_rx
+                0x00002140                RADIO_IRQ
+                0x00002774                axradio_set_mode
+                0x00002b5c                axradio_set_freqoffset
+                0x00002ba0                axradio_get_freqoffset
+                0x00002bac                axradio_set_local_address
+                0x00002bc4                axradio_get_local_address
+                0x00002bd8                axradio_set_default_remote_address
+                0x00002bec                axradio_get_default_remote_address
+                0x00002c00                axradio_transmit
+                0x00002ec8                axradio_agc_freeze
+                0x00002eec                axradio_agc_thaw
+ .text          0x00002f10       0x80 obj\Debug\COMMON\misc.o
+                0x00002f1c                lcd2_display_radio_error
+                0x00002f34                dbglink_display_radio_error
+                0x00002f4c                delay_ms
+ .text          0x00002f90        0x0 obj\Debug\COMMON\stackheap.o
+ .text          0x00002f90       0x68 obj\Debug\SLAVE\display.o
+                0x00002f90                display_received_packet
+                0x00002ff4                dbglink_received_packet
+ .text          0x00002ff8      0x244 obj\Debug\SLAVE\jci.o
+                0x00002ff8                jci_init
+                0x00003028                jci_check_notification_enable
+                0x00003038                jci_send_receive_notification
+                0x0000308c                jci_dispatch
+                0x00003168                process_uart
+ .text          0x0000323c      0x140 obj\Debug\SLAVE\lposc.o
+                0x00003290                calibrate_lposc
+ .text          0x0000337c       0xe8 obj\Debug\SLAVE\main.o
+                0x0000337c                axradio_statuschange
+                0x000033c0                _axm0f2_external_startup
+ .text.startup  0x00003464      0x104 obj\Debug\SLAVE\main.o
+                0x00003464                main
+ .text          0x00003568      0xf74 obj\Debug\SLAVE\printf.o
+                0x00004412                printf_
+                0x00004438                sprintf_
+                0x0000445c                snprintf_
+                0x00004480                vprintf_
+                0x0000449c                vsnprintf_
+                0x000044b4                fctprintf
+ .text          0x000044dc       0x54 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+                0x000044dc                Reset_Handler
+                0x000044e2                Reset_Handler_NoStartCause
+                0x0000452c                GPIOPort1_Handler
+                0x0000452c                SysTick_Handler
+                0x0000452c                PendSV_Handler
+                0x0000452c                NMI_Handler
+                0x0000452c                HardFault_Handler
+                0x0000452c                LPComp_Handler
+                0x0000452c                SCB1_Handler
+                0x0000452c                TCPWM0_Handler
+                0x0000452c                WDT_Handler
+                0x0000452c                GPIOPort3_Handler
+                0x0000452c                ADC_Handler
+                0x0000452c                CSD_Handler
+                0x0000452c                SPCIF_Handler
+                0x0000452c                Default_Handler
+                0x0000452c                CTBm_Handler
+                0x0000452c                TCPWM2_Handler
+                0x0000452c                TCPWM1_Handler
+                0x0000452c                SVC_Handler
+                0x0000452c                GPIO_Handler
+                0x0000452c                GPIOPort0_Handler
+                0x0000452c                SCB2_Handler
+ .text          0x00004530      0x328 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+                0x00004530                SystemCoreClockUpdate
+                0x00004544                SystemInit
+ .text          0x00004858       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+                0x00004858                crc_crc16
+ .text          0x00004878       0x24 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+                0x00004878                pn9_advance_bits
+ .text          0x0000489c       0x22 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+                0x0000489c                pn9_advance_byte
+ .text          0x000048be       0x2a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+                0x000048be                pn9_buffer
+ .text          0x000048e8        0x2 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+                0x000048e8                signextend16
+ .text          0x000048ea       0x10 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+                0x000048ea                signextend20
+ .text          0x000048fa       0x10 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+                0x000048fa                signextend24
+ .text          0x0000490a       0x1a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+                0x0000490a                checksignedlimit16
+ .text          0x00004924       0x1e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+                0x00004924                signedlimit16
+ .text          0x00004942       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+                0x00004942                checksignedlimit32
+ *fill*         0x00004956        0x2 
+ .text          0x00004958       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+                0x00004958                delay
+ .text          0x0000496c       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+                0x0000496c                get_startcause
+ .text          0x0000498c       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+                0x0000498c                enter_standby
+ .text          0x000049a0       0xa8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+                0x000049a0                _radio_read8
+ .text          0x00004a48       0xb8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+                0x00004a48                _radio_read16
+ .text          0x00004b00       0xc8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+                0x00004b00                _radio_read24
+ .text          0x00004bc8       0xb4 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+                0x00004bc8                _radio_write8
+ .text          0x00004c7c      0x470 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+                0x00004cc8                wtimer_addcb_core
+                0x00004ce0                wtimer0_update
+                0x00004d08                wtimer0_addcore
+                0x00004d2c                wtimer0_schedq
+                0x00004e10                WCOWDT_Handler
+                0x00004e40                wtimer1_update
+                0x00004e64                wtimer1_addcore
+                0x00004e88                wtimer1_schedq
+                0x00004ed0                TCPWM4_Handler
+                0x00004ef0                wtimer_doinit
+                0x00004fec                wtimer_init
+                0x00005004                wtimer_init_deepsleep
+                0x0000500e                wtimer_cansleep
+                0x00005020                wtimer_idle
+                0x000050a0                wtimer_runcallbacks
+ .text          0x000050ec       0x12 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+                0x000050ec                wtimer_add_callback
+ .text          0x000050fe       0x12 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+                0x000050fe                wtimer_remove_callback
+ .text          0x00005110       0xd0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+                0x00005110                wtimer0_setclksrc
+ .text          0x000051e0       0x4c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+                0x000051e0                wtimer1_setclksrc
+ .text          0x0000522c       0x1e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+                0x0000522c                wtimer0_addabsolute
+ *fill*         0x0000524a        0x2 
+ .text          0x0000524c       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+                0x0000524c                wtimer0_addrelative
+ .text          0x00005278       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+                0x00005278                wtimer1_addrelative
+ .text          0x000052a4       0x1c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+                0x000052a4                wtimer0_curtime
+ .text          0x000052c0       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+                0x000052c0                wtimer1_remove
+ .text          0x000052e0       0x2a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+                0x000052e0                wtimer_remove
+ *fill*         0x0000530a        0x2 
+ .text          0x0000530c       0x3c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+                0x0000530c                uart_timer1_baud
+ .text          0x00005348      0x13c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+                0x00005348                SCB0_Handler
+                0x00005358                uart0_poll
+                0x00005368                uart0_iocore
+                0x00005378                uart0_rxadvance
+                0x00005388                uart0_txadvance
+                0x00005398                uart0_rxbufptr
+                0x000053a8                uart0_txbufptr
+                0x000053b8                uart0_txfreelinear
+                0x000053c8                uart0_txfree
+                0x000053d8                uart0_rxcountlinear
+                0x000053e8                uart0_rxcount
+                0x000053f8                uart0_txbuffersize
+                0x00005408                uart0_rxbuffersize
+                0x00005418                uart0_rxpeek
+                0x00005428                uart0_txpoke
+                0x0000543c                uart0_txpokehex
+                0x00005450                uart0_txidle
+                0x00005460                uart0_txbusy
+                0x00005470                uart0_init
+ .text          0x00005484       0x30 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+                0x00005484                uart0_wait_txfree
+                0x00005494                uart0_wait_txdone
+                0x000054a4                uart0_tx
+ .text          0x000054b4       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+                0x000054b4                uart0_wait_rxcount
+                0x000054c4                uart0_rx
+ .text          0x000054d4       0x10 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+                0x000054d4                uart0_writestr
+ .text          0x000054e4       0xdc C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+                0x000054e4                ax5043_readfifo
+ .text          0x000055c0       0xd4 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+                0x000055c0                ax5043_writefifo
+ .text          0x00005694      0x2b4 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+                0x00005694                ax5043_probeirq
+                0x000056ec                ax5043_reset
+                0x00005750                ax5043_set_pwramp_pin
+                0x000057b8                ax5043_get_pwramp_pin
+                0x000057c4                ax5043_set_antsel_pin
+                0x00005838                ax5043_get_antsel_pin
+                0x00005844                GPIOPort2_Handler
+ .text          0x00005948       0x54 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+                0x00005948                ax5043_commsleepexit
+ .text          0x0000599c       0x9c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+                0x0000599c                ax5043_enter_deepsleep
+                0x000059e4                ax5043_wakeup_deepsleep
+ .text          0x00005a38      0x390 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+                0x00005a38                wtimer0_correctinterval
+                0x00005a78                wtimer1_correctinterval
+                0x00005ab8                setup_osc_calibration
+                0x00005c74                TCPWM3_Handler
+ .text          0x00005dc8       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+                0x00005dc8                crc_crc16_byte
+ .text          0x00005ddc        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+ .text          0x00005ddc       0x40 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+                0x00005ddc                enter_sleep
+ .text          0x00005e1c       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+                0x00005e1c                enter_sleep_cont
+ .text          0x00005e44       0x6c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+                0x00005e44                wtimer_removecb_core
+                0x00005e68                wtimer0_removecb_core
+                0x00005e8c                wtimer1_removecb_core
+ .text          0x00005eb0      0xa88 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+                0x00005f10                axm0_uart_rxbufptr
+                0x00005f32                axm0_uart_txbufptr
+                0x00005f54                axm0_uart_txfreelinear
+                0x00005f78                axm0_uart_txfree
+                0x00005f96                axm0_uart_rxcountlinear
+                0x00005fae                axm0_uart_rxcount
+                0x00005fc8                axm0_uart_txbuffersize
+                0x00005fd2                axm0_uart_rxbuffersize
+                0x00005fdc                axm0_uart_rxpeek
+                0x00005fe6                axm0_uart_txpoke
+                0x00005ff2                axm0_uart_txpokehex
+                0x00006008                axm0_uart_iocore
+                0x000060dc                axm0_uart_poll
+                0x000060f2                axm0_uart_wait_txfree
+                0x00006126                axm0_uart_tx
+                0x00006146                axm0_uart_writehex16
+                0x0000622c                axm0_uart_writehex32
+                0x00006326                axm0_uart_writenum16
+                0x00006416                axm0_uart_writenum32
+                0x0000652c                axm0_uart_wait_rxcount
+                0x00006560                axm0_uart_rx
+                0x00006580                axm0_uart_rxadvance
+                0x0000658c                axm0_uart_txadvance
+                0x00006598                axm0_uart_writestr
+                0x000065f8                axm0_uart_writehexu16
+                0x00006628                axm0_uart_writehexu32
+                0x00006658                axm0_uart_txidle
+                0x00006684                axm0_uart_txbusy
+                0x000066ac                axm0_uart_wait_txdone
+                0x000066e4                axm0_uart_init
+                0x0000687c                axm0_uart_stop
+                0x000068a8                axm0_uart_writeu16
+                0x000068f0                axm0_uart_writeu32
+ .text          0x00006938        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+ .text          0x00006938        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+ .text          0x00006938        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+ .text          0x00006938       0x88 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+                0x00006938                radio_wakeup_deepsleep_core
+ .text          0x000069c0       0x50 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+                0x000069c0                ax5043_rclk_enable
+ .text          0x00006a10       0x48 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+                0x00006a10                libmf_num16_digit
+ .text          0x00006a58       0x48 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+                0x00006a58                libmf_num32_digit
+ .text          0x00006aa0        0x8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+                0x00006aa0                wtimer_standby
+ .text          0x00006aa8       0x14 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                0x00006aa8                __gnu_thumb1_case_uqi
+ .text          0x00006abc       0x14 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+                0x00006abc                __gnu_thumb1_case_uhi
+ .text          0x00006ad0      0x114 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+                0x00006ad0                __aeabi_uidiv
+                0x00006ad0                __udivsi3
+                0x00006bdc                __aeabi_uidivmod
+ .text          0x00006be4      0x1d4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+                0x00006be4                __divsi3
+                0x00006be4                __aeabi_idiv
+                0x00006db0                __aeabi_idivmod
+ .text          0x00006db8        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x00006db8                __aeabi_idiv0
+                0x00006db8                __aeabi_ldiv0
+ .text          0x00006dbc       0x7c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_arm_cmpdf2.o)
+                0x00006dbc                __aeabi_cdrcmple
+                0x00006dcc                __aeabi_cdcmple
+                0x00006dcc                __aeabi_cdcmpeq
+                0x00006ddc                __aeabi_dcmpeq
+                0x00006de8                __aeabi_dcmplt
+                0x00006dfc                __aeabi_dcmple
+                0x00006e10                __aeabi_dcmpgt
+                0x00006e24                __aeabi_dcmpge
+ .text          0x00006e38       0x40 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+                0x00006e38                __aeabi_uldivmod
+ .text          0x00006e78       0x3c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_fixunsdfsi.o)
+                0x00006e78                __aeabi_d2uiz
+                0x00006e78                __fixunsdfsi
+ .text          0x00006eb4      0x180 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+                0x00006eb4                __udivmoddi4
+ .text          0x00007034      0x658 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(adddf3.o)
+                0x00007034                __aeabi_dadd
+ .text          0x0000768c      0x62c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(divdf3.o)
+                0x0000768c                __aeabi_ddiv
+ .text          0x00007cb8       0x80 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(eqdf2.o)
+                0x00007cb8                __nedf2
+                0x00007cb8                __eqdf2
+ .text          0x00007d38       0xc8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(gedf2.o)
+                0x00007d38                __gedf2
+                0x00007d38                __gtdf2
+ .text          0x00007e00       0xd4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(ledf2.o)
+                0x00007e00                __ledf2
+                0x00007e00                __ltdf2
+ .text          0x00007ed4      0x4f4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(muldf3.o)
+                0x00007ed4                __aeabi_dmul
+ .text          0x000083c8      0x6a8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(subdf3.o)
+                0x000083c8                __aeabi_dsub
+ .text          0x00008a70       0x6c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(fixdfsi.o)
+                0x00008a70                __aeabi_d2iz
+ .text          0x00008adc       0x84 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatsidf.o)
+                0x00008adc                __aeabi_i2d
+ .text          0x00008b60       0x70 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatunsidf.o)
+                0x00008b60                __aeabi_ui2d
+ .text          0x00008bd0       0xa8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(extendsfdf2.o)
+                0x00008bd0                __aeabi_f2d
+ .text          0x00008c78       0x3c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+                0x00008c78                __clzsi2
+ .text          0x00008cb4       0x18 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+                0x00008cb4                __clzdi2
+ .text          0x00008ccc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .text.exit     0x00008ccc       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+                0x00008ccc                exit
+ .text          0x00008cec        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+ .text          0x00008cec        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00008cec       0x48 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+                0x00008cec                __libc_init_array
+ .text          0x00008d34        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00008d34       0x7c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcpy-stub.o)
+                0x00008d34                memcpy
+ .text          0x00008db0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .text.memset   0x00008db0       0x8c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+                0x00008db0                memset
+ .text          0x00008e3c        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o)
+ .text.critical_factorization
+                0x00008e3c       0xc4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o)
+ .text.two_way_long_needle
+                0x00008f00      0x1ec c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o)
+ .text.strstr   0x000090ec      0x1f4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o)
+                0x000090ec                strstr
+ .text          0x000092e0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x000092e0       0x18 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x000092f8       0xfc c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+                0x000092f8                __call_exitprocs
+ .text          0x000093f4        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+ .text.atexit   0x000093f4       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+                0x000093f4                atexit
+ .text          0x00009404        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00009404       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+                0x00009404                __libc_fini_array
+ .text          0x00009438        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memchr-stub.o)
+ .text.memchr   0x00009438       0x90 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memchr-stub.o)
+                0x00009438                memchr
+ .text          0x000094c8        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcmp.o)
+ .text.memcmp   0x000094c8       0x50 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcmp.o)
+                0x000094c8                memcmp
+ .text          0x00009518        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strchr.o)
+ .text.strchr   0x00009518       0xdc c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strchr.o)
+                0x00009518                strchr
+ .text          0x000095f4        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x000095f4       0xd4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+                0x000095f4                __register_exitproc
+ .text          0x000096c8        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .text._exit    0x000096c8        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                0x000096c8                _exit
+ .text          0x000096cc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .text          0x000096cc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ *(.init)
+ .init          0x000096cc        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x000096cc                _init
+ .init          0x000096d0        0x8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x000096d8        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x000096d8                _fini
+ .fini          0x000096dc        0x8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x000096e4       0x7b obj\Debug\AX_Radio_Lab_output\config.o
+                0x000096e4                axradio_sync_slave_rxtimeout
+                0x000096e8                axradio_sync_slave_rxwindow
+                0x000096f4                axradio_sync_slave_rxadvance
+                0x00009700                axradio_sync_slave_nrrx
+                0x00009701                axradio_sync_slave_resyncloss
+                0x00009702                axradio_sync_slave_maxperiod
+                0x00009704                axradio_sync_slave_syncpause
+                0x00009708                axradio_sync_slave_initialsyncwindow
+                0x0000970c                axradio_sync_slave_syncwindow
+                0x00009710                axradio_sync_xoscstartup
+                0x00009714                axradio_sync_period
+                0x00009718                axradio_wor_period
+                0x0000971a                axradio_framing_minpayloadlen
+                0x0000971b                axradio_framing_ack_seqnrpos
+                0x0000971c                axradio_framing_ack_retransmissions
+                0x00009720                axradio_framing_ack_delay
+                0x00009724                axradio_framing_ack_timeout
+                0x00009728                axradio_framing_enable_sfdcallback
+                0x00009729                axradio_framing_syncflags
+                0x0000972a                axradio_framing_syncword
+                0x0000972e                axradio_framing_synclen
+                0x0000972f                axradio_framing_swcrclen
+                0x00009730                axradio_framing_lenmask
+                0x00009731                axradio_framing_lenoffs
+                0x00009732                axradio_framing_lenpos
+                0x00009733                axradio_framing_sourceaddrpos
+                0x00009734                axradio_framing_destaddrpos
+                0x00009735                axradio_framing_addrlen
+                0x00009736                axradio_framing_maclen
+                0x00009737                axradio_phy_preamble_appendpattern
+                0x00009738                axradio_phy_preamble_appendbits
+                0x00009739                axradio_phy_preamble_flags
+                0x0000973a                axradio_phy_preamble_byte
+                0x0000973c                axradio_phy_preamble_len
+                0x0000973e                axradio_phy_preamble_longlen
+                0x00009740                axradio_phy_preamble_wor_len
+                0x00009742                axradio_phy_preamble_wor_longlen
+                0x00009744                axradio_phy_lbt_forcetx
+                0x00009745                axradio_phy_lbt_retries
+                0x00009746                axradio_phy_cs_enabled
+                0x00009748                axradio_phy_cs_period
+                0x0000974a                axradio_phy_channelbusy
+                0x0000974b                axradio_phy_rssireference
+                0x0000974c                axradio_phy_rssioffset
+                0x00009750                axradio_phy_maxfreqoffset
+                0x00009754                axradio_phy_vcocalib
+                0x00009755                axradio_phy_chanvcoiinit
+                0x00009756                axradio_phy_chanpllrnginit
+                0x00009758                axradio_phy_chanfreq
+                0x0000975c                axradio_phy_nrchannels
+                0x0000975d                axradio_phy_pn9
+                0x0000975e                axradio_phy_innerfreqloop
+ *fill*         0x0000975f        0x1 
+ .rodata        0x00009760       0x12 obj\Debug\AX_Radio_Lab_output\configslave.o
+                0x00009760                lpxosc_settlingtime
+                0x00009762                lposckfiltmax
+                0x00009764                framing_counter_pos
+                0x00009765                framing_insert_counter
+                0x00009766                localaddr
+                0x0000976e                remoteaddr
+ *fill*         0x00009772        0x2 
+ .rodata        0x00009774       0x40 obj\Debug\COMMON\misc.o
+ .rodata.str1.1
+                0x000097b4       0x58 obj\Debug\COMMON\misc.o
+ .rodata.str1.1
+                0x0000980c      0x395 obj\Debug\SLAVE\jci.o
+                                0x397 (size before relaxing)
+ .rodata        0x00009ba1        0x2 obj\Debug\SLAVE\main.o
+                0x00009ba1                AxM0_Mini_Kit
+                0x00009ba2                txondemand_mode
+ .rodata.str1.1
+                0x00009ba3        0xb obj\Debug\SLAVE\main.o
+ *fill*         0x00009bae        0x2 
+ .rodata        0x00009bb0       0x50 obj\Debug\SLAVE\printf.o
+ .rodata.str1.1
+                0x00009c00       0x12 obj\Debug\SLAVE\printf.o
+ .rodata        0x00009c12      0x200 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+                0x00009c12                crc_crc16_table
+ *fill*         0x00009e12        0x2 
+ .rodata        0x00009e14       0x1c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+                0x00009e14                _uart0_descriptor
+ .rodata        0x00009e30        0x2 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+                0x00009e30                uart0_txbuffer_size
+ .rodata        0x00009e32        0x2 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+                0x00009e32                uart0_rxbuffer_size
+ .rodata        0x00009e34       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .rodata        0x00009e54       0x60 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .rodata        0x00009eb4       0x40 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(divdf3.o)
+ .rodata        0x00009ef4       0x40 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(muldf3.o)
+ .rodata._global_impure_ptr
+                0x00009f34        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+                0x00009f34                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x00009f38        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .eh_frame      0x00009f38        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+
+.glue_7         0x00009f3c        0x0
+ .glue_7        0x00009f3c        0x0 linker stubs
+
+.glue_7t        0x00009f3c        0x0
+ .glue_7t       0x00009f3c        0x0 linker stubs
+
+.vfp11_veneer   0x00009f3c        0x0
+ .vfp11_veneer  0x00009f3c        0x0 linker stubs
+
+.v4_bx          0x00009f3c        0x0
+ .v4_bx         0x00009f3c        0x0 linker stubs
+
+.iplt           0x00009f3c        0x0
+ .iplt          0x00009f3c        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.ARM.extab      0x00009f3c        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00009f3c        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00009f3c        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+                0x00009f3c                __exidx_start = .
+
+.ARM.exidx      0x00009f3c        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00009f3c        0x8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00009f44        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+                                  0x8 (size before relaxing)
+                0x00009f44                __exidx_end = .
+                0x00009f44                __etext = .
+
+.rel.dyn        0x00009f44        0x0
+ .rel.iplt      0x00009f44        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.data           0x20000000      0x50c load address 0x00009f44
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x20000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .data          0x20000000        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x20000004        0x0 obj\Debug\AX_Radio_Lab_output\config.o
+ .data          0x20000004        0x0 obj\Debug\AX_Radio_Lab_output\configslave.o
+ .data          0x20000004        0x0 obj\Debug\COMMON\display_com0.o
+ .data          0x20000004        0x4 obj\Debug\COMMON\easyax5043.o
+                0x20000004                f30_saved
+                0x20000005                f31_saved
+                0x20000006                f32_saved
+                0x20000007                f33_saved
+ .data          0x20000008        0x0 obj\Debug\COMMON\misc.o
+ .data          0x20000008        0x0 obj\Debug\COMMON\stackheap.o
+ .data          0x20000008        0x1 obj\Debug\SLAVE\display.o
+                0x20000008                display_timing
+ *fill*         0x20000009        0x3 
+ .data          0x2000000c       0xbc obj\Debug\SLAVE\jci.o
+                0x2000000c                req_plat_id
+                0x20000020                request_platform_id_ack
+                0x20000024                platform_id
+                0x20000028                req_plat_info
+                0x20000040                request_platform_info_ack
+                0x20000044                platform_info
+                0x20000048                req_tog_recv
+                0x20000058                toggle_receive_ack
+                0x2000005c                req_tog_true
+                0x20000064                toggle_receive_true
+                0x20000068                toggle_receive_false
+                0x2000006c                nak
+                0x200000c7                timeout_value
+ .data          0x200000c8        0x0 obj\Debug\SLAVE\lposc.o
+ .data          0x200000c8        0x1 obj\Debug\SLAVE\main.o
+                0x200000c8                coldstart
+ .data          0x200000c9        0x0 obj\Debug\SLAVE\printf.o
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .data          0x200000c9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .data          0x200000c9        0x2 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .data          0x200000cb        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+ .data          0x200000cb        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ *fill*         0x200000cb        0x1 
+ .data          0x200000cc        0x4 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .data          0x200000d0        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_fixunsdfsi.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(adddf3.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(divdf3.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(eqdf2.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(gedf2.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(ledf2.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(muldf3.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(subdf3.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(fixdfsi.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatsidf.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatunsidf.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(extendsfdf2.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .data          0x200000d0        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x200000d0      0x428 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x200004f8        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+                0x200004f8                _impure_ptr
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memchr-stub.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcmp.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strchr.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .data          0x200004fc        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x200004fc                . = ALIGN (0x4)
+                0x200004fc                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x200004fc                PROVIDE (__preinit_array_end, .)
+                0x200004fc                . = ALIGN (0x4)
+                0x200004fc                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x200004fc        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x20000500        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+                0x20000504                PROVIDE (__init_array_end, .)
+                0x20000504                . = ALIGN (0x4)
+                0x20000504                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000504        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+                0x20000508                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x20000508        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .jcr           0x20000508        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+                0x2000050c                . = ALIGN (0x4)
+                0x2000050c                __data_end__ = .
+
+.igot.plt       0x2000050c        0x0 load address 0x0000a450
+ .igot.plt      0x2000050c        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.noinit         0x2000050c        0x3 load address 0x0000a450
+ .noinit        0x2000050c        0x3 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+                0x2000050c                wtimer0_clksrc
+                0x2000050d                wtimer1_clksrc
+                0x2000050e                wtimer1_prescaler
+
+.bss            0x20000510      0x824 load address 0x0000a454
+                0x20000510                . = ALIGN (0x4)
+                0x20000510                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000510        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .bss           0x20000510       0x1c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .bss           0x2000052c        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x2000052c        0x2 obj\Debug\AX_Radio_Lab_output\config.o
+                0x2000052c                axradio_phy_chanvcoi
+                0x2000052d                axradio_phy_chanpllrng
+ .bss           0x2000052e        0x0 obj\Debug\AX_Radio_Lab_output\configslave.o
+ .bss           0x2000052e        0x0 obj\Debug\COMMON\display_com0.o
+ *fill*         0x2000052e        0x2 
+ .bss           0x20000530      0x2c4 obj\Debug\COMMON\easyax5043.o
+                0x20000530                axradio_sync_time
+                0x20000534                axradio_timer
+                0x20000540                axradio_cb_receive
+                0x20000570                axradio_cb_receivesfd
+                0x20000580                axradio_cb_channelstate
+                0x20000594                axradio_cb_transmitstart
+                0x200005a4                axradio_cb_transmitend
+                0x200005b4                axradio_cb_transmitdata
+                0x200005c4                axradio_trxstate
+                0x200005c6                axradio_txbuffer_cnt
+                0x200005c8                axradio_mode
+                0x200005ca                axradio_txbuffer_len
+                0x200005cc                axradio_txbuffer
+                0x200006d0                axradio_timeanchor
+                0x200006d8                axradio_sync_periodcorr
+                0x200006da                axradio_localaddr
+                0x200006e2                axradio_syncstate
+                0x200006e3                axradio_ack_count
+                0x200006e4                axradio_ack_seqnr
+                0x200006e5                axradio_default_remoteaddr
+                0x200006e9                axradio_curchannel
+                0x200006ec                axradio_curfreqoffset
+                0x200006f0                axradio_rxbuffer
+ .bss           0x200007f4        0xc obj\Debug\COMMON\misc.o
+ .bss           0x20000800        0x0 obj\Debug\COMMON\stackheap.o
+ .bss           0x20000800        0x4 obj\Debug\SLAVE\display.o
+                0x20000800                per_test_counter
+                0x20000802                per_test_counter_previous
+ .bss           0x20000804      0x404 obj\Debug\SLAVE\jci.o
+                0x20000804                msg_len
+                0x20000805                brackets
+                0x20000806                jci_done
+                0x20000807                jci_state
+                0x20000808                timeout
+                0x20000809                json_message
+                0x20000bf1                receive_notification_enable
+                0x20000bf2                per_reset
+                0x20000bf3                c
+                0x20000bf4                per_buffer
+                0x20000bfe                jci_per_test_counter_previous
+                0x20000c00                jci_per_test_counter
+                0x20000c04                receive_notification
+ .bss           0x20000c08        0x0 obj\Debug\SLAVE\lposc.o
+ .bss           0x20000c08       0x66 obj\Debug\SLAVE\main.o
+                0x20000c08                pkts_received
+                0x20000c0c                addr
+                0x20000c10                h
+                0x20000c14                p
+                0x20000c18                t
+                0x20000c1c                z
+                0x20000c20                y
+                0x20000c24                x
+                0x20000c28                txBuffer
+                0x20000c68                vBuffer
+                0x20000c6c                pkts_missing
+ .bss           0x20000c6e        0x0 obj\Debug\SLAVE\printf.o
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .bss           0x20000c6e        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ *fill*         0x20000c6e        0x2 
+ .bss           0x20000c70       0x2a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+                0x20000c70                wtimer_pending
+                0x20000c74                wtimer_state
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+ .bss           0x20000c9a        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ *fill*         0x20000c9a        0x2 
+ .bss           0x20000c9c        0xd C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .bss           0x20000ca9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .bss           0x20000ca9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+ .bss           0x20000ca9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .bss           0x20000ca9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+ .bss           0x20000ca9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .bss           0x20000ca9        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ *fill*         0x20000ca9        0x1 
+ .bss           0x20000caa        0x8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+ .bss           0x20000cb2       0x40 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+                0x20000cb2                uart0_txbuffer
+ .bss           0x20000cf2       0x40 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+                0x20000cf2                uart0_rxbuffer
+ .bss           0x20000d32        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .bss           0x20000d32        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .bss           0x20000d32        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .bss           0x20000d32        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .bss           0x20000d32        0x0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_fixunsdfsi.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(adddf3.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(divdf3.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(eqdf2.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(gedf2.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(ledf2.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(muldf3.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(subdf3.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(fixdfsi.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatsidf.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatunsidf.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(extendsfdf2.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memchr-stub.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcmp.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strchr.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .bss           0x20000d32        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ *(COMMON)
+                0x20000d34                . = ALIGN (0x4)
+ *fill*         0x20000d32        0x2 
+                0x20000d34                __bss_end__ = .
+
+.axuninit       0x20000d34        0x8 load address 0x0000ac78
+                0x20000d34                . = ALIGN (0x4)
+                0x20000d34                __axuninit_start__ = .
+ *(.axuninit*)
+ .axuninit      0x20000d34        0x5 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+                0x20000d34                SystemCoreClock
+                0x20000d38                __startcause
+                0x20000d3c                . = ALIGN (0x4)
+ *fill*         0x20000d39        0x3 
+                0x20000d3c                __axuninit_end__ = .
+
+.heap           0x20000d40      0xc00
+                0x20000d40                __HeapBase = .
+                0x20000d40                __end__ = .
+                0x20000d40                end = __end__
+ *(.heap*)
+ .heap          0x20000d40      0xc00 obj\Debug\COMMON\stackheap.o
+                0x20001940                __HeapLimit = .
+
+.stack_dummy    0x20000d40      0x400
+ *(.stack*)
+ .stack         0x20000d40      0x400 obj\Debug\COMMON\stackheap.o
+                0x20002000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20001c00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20002000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(bin\Debug\SLAVE_AXM0f2-GNU.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x32 obj\Debug\AX_Radio_Lab_output\config.o
+ .ARM.attributes
+                0x00000097       0x32 obj\Debug\AX_Radio_Lab_output\configslave.o
+ .ARM.attributes
+                0x000000c9       0x32 obj\Debug\COMMON\display_com0.o
+ .ARM.attributes
+                0x000000fb       0x32 obj\Debug\COMMON\easyax5043.o
+ .ARM.attributes
+                0x0000012d       0x32 obj\Debug\COMMON\misc.o
+ .ARM.attributes
+                0x0000015f       0x1b obj\Debug\COMMON\stackheap.o
+ .ARM.attributes
+                0x0000017a       0x32 obj\Debug\SLAVE\display.o
+ .ARM.attributes
+                0x000001ac       0x32 obj\Debug\SLAVE\jci.o
+ .ARM.attributes
+                0x000001de       0x32 obj\Debug\SLAVE\lposc.o
+ .ARM.attributes
+                0x00000210       0x32 obj\Debug\SLAVE\main.o
+ .ARM.attributes
+                0x00000242       0x32 obj\Debug\SLAVE\printf.o
+ .ARM.attributes
+                0x00000274       0x1b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+ .ARM.attributes
+                0x0000028f       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .ARM.attributes
+                0x000002c1       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .ARM.attributes
+                0x000002f3       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .ARM.attributes
+                0x00000325       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .ARM.attributes
+                0x00000357       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .ARM.attributes
+                0x00000389       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+ .ARM.attributes
+                0x000003bb       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .ARM.attributes
+                0x000003ed       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .ARM.attributes
+                0x0000041f       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .ARM.attributes
+                0x00000451       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .ARM.attributes
+                0x00000483       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .ARM.attributes
+                0x000004b5       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .ARM.attributes
+                0x000004e7       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .ARM.attributes
+                0x00000519       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+ .ARM.attributes
+                0x0000054b       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .ARM.attributes
+                0x0000057d       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .ARM.attributes
+                0x000005af       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .ARM.attributes
+                0x000005e1       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .ARM.attributes
+                0x00000613       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .ARM.attributes
+                0x00000645       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .ARM.attributes
+                0x00000677       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .ARM.attributes
+                0x000006a9       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .ARM.attributes
+                0x000006db       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .ARM.attributes
+                0x0000070d       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .ARM.attributes
+                0x0000073f       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .ARM.attributes
+                0x00000771       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .ARM.attributes
+                0x000007a3       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+ .ARM.attributes
+                0x000007d5       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .ARM.attributes
+                0x00000807       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .ARM.attributes
+                0x00000839       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .ARM.attributes
+                0x0000086b       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .ARM.attributes
+                0x0000089d       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .ARM.attributes
+                0x000008cf       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .ARM.attributes
+                0x00000901       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .ARM.attributes
+                0x00000933       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .ARM.attributes
+                0x00000965       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .ARM.attributes
+                0x00000997       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .ARM.attributes
+                0x000009c9       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+ .ARM.attributes
+                0x000009fb       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ .ARM.attributes
+                0x00000a2d       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .ARM.attributes
+                0x00000a5f       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .ARM.attributes
+                0x00000a91       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+ .ARM.attributes
+                0x00000ac3       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .ARM.attributes
+                0x00000af5       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+ .ARM.attributes
+                0x00000b27       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .ARM.attributes
+                0x00000b59       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .ARM.attributes
+                0x00000b8b       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+ .ARM.attributes
+                0x00000bbd       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+ .ARM.attributes
+                0x00000bef       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+ .ARM.attributes
+                0x00000c21       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .ARM.attributes
+                0x00000c53       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .ARM.attributes
+                0x00000c85       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .ARM.attributes
+                0x00000cb7       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .ARM.attributes
+                0x00000ce9       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+ .ARM.attributes
+                0x00000d1b       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x00000d39       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_thumb1_case_uhi.o)
+ .ARM.attributes
+                0x00000d57       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000d75       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000d93       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000db1       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000dcf       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000ded       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000e19       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000e45       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(adddf3.o)
+ .ARM.attributes
+                0x00000e71       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(divdf3.o)
+ .ARM.attributes
+                0x00000e9d       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(eqdf2.o)
+ .ARM.attributes
+                0x00000ec9       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(gedf2.o)
+ .ARM.attributes
+                0x00000ef5       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(ledf2.o)
+ .ARM.attributes
+                0x00000f21       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x00000f4d       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(subdf3.o)
+ .ARM.attributes
+                0x00000f79       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(fixdfsi.o)
+ .ARM.attributes
+                0x00000fa5       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatsidf.o)
+ .ARM.attributes
+                0x00000fd1       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatunsidf.o)
+ .ARM.attributes
+                0x00000ffd       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(extendsfdf2.o)
+ .ARM.attributes
+                0x00001029       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00001047       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x00001065       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00001091       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000010bd       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000010e9       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00001115       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00001141       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o)
+ .ARM.attributes
+                0x0000116d       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00001199       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000011c5       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000011f1       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x0000121d       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00001249       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00001275       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000012a1       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000012cd       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .ARM.attributes
+                0x000012f9       0x1e c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e obj\Debug\AX_Radio_Lab_output\config.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f obj\Debug\AX_Radio_Lab_output\configslave.o
+ .comment       0x0000006e       0x6f obj\Debug\COMMON\display_com0.o
+ .comment       0x0000006e       0x6f obj\Debug\COMMON\easyax5043.o
+ .comment       0x0000006e       0x6f obj\Debug\COMMON\misc.o
+ .comment       0x0000006e       0x6f obj\Debug\SLAVE\display.o
+ .comment       0x0000006e       0x6f obj\Debug\SLAVE\jci.o
+ .comment       0x0000006e       0x6f obj\Debug\SLAVE\lposc.o
+ .comment       0x0000006e       0x6f obj\Debug\SLAVE\main.o
+ .comment       0x0000006e       0x6f obj\Debug\SLAVE\printf.o
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .comment       0x0000006e       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+
+.debug_info     0x00000000    0x1d3ef
+ .debug_info    0x00000000     0x18d9 obj\Debug\AX_Radio_Lab_output\config.o
+ .debug_info    0x000018d9      0x16d obj\Debug\AX_Radio_Lab_output\configslave.o
+ .debug_info    0x00001a46       0x79 obj\Debug\COMMON\display_com0.o
+ .debug_info    0x00001abf     0x4b54 obj\Debug\COMMON\easyax5043.o
+ .debug_info    0x00006613      0x2b5 obj\Debug\COMMON\misc.o
+ .debug_info    0x000068c8      0x2f0 obj\Debug\SLAVE\display.o
+ .debug_info    0x00006bb8      0x8eb obj\Debug\SLAVE\jci.o
+ .debug_info    0x000074a3      0x423 obj\Debug\SLAVE\lposc.o
+ .debug_info    0x000078c6      0xfc3 obj\Debug\SLAVE\main.o
+ .debug_info    0x00008889     0x171e obj\Debug\SLAVE\printf.o
+ .debug_info    0x00009fa7       0x74 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+ .debug_info    0x0000a01b     0x3d09 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .debug_info    0x0000dd24      0x117 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .debug_info    0x0000de3b       0xe1 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .debug_info    0x0000df1c       0xe1 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .debug_info    0x0000dffd      0x11d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .debug_info    0x0000e11a       0xce C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+ .debug_info    0x0000e1e8       0xba C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .debug_info    0x0000e2a2       0xba C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .debug_info    0x0000e35c       0xdf C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .debug_info    0x0000e43b       0xfd C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .debug_info    0x0000e538       0xdf C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .debug_info    0x0000e617       0xa1 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .debug_info    0x0000e6b8      0x2a9 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .debug_info    0x0000e961      0x16b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+ .debug_info    0x0000eacc      0xa07 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .debug_info    0x0000f4d3      0xa07 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .debug_info    0x0000feda      0xa07 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .debug_info    0x000108e1      0xa0c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .debug_info    0x000112ed     0x11d0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .debug_info    0x000124bd      0x234 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .debug_info    0x000126f1      0x25b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .debug_info    0x0001294c      0x5a5 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .debug_info    0x00012ef1      0x23f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .debug_info    0x00013130      0x26b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .debug_info    0x0001339b      0x2e6 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .debug_info    0x00013681      0x2e6 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .debug_info    0x00013967      0x2b3 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+ .debug_info    0x00013c1a      0x2ce C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .debug_info    0x00013ee8      0x2ed C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .debug_info    0x000141d5      0x35e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .debug_info    0x00014533      0x656 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .debug_info    0x00014b89      0x2cc C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .debug_info    0x00014e55      0x299 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .debug_info    0x000150ee      0x27f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .debug_info    0x0001536d      0xa74 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .debug_info    0x00015de1      0xa78 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .debug_info    0x00016859      0x98e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .debug_info    0x000171e7      0x343 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+ .debug_info    0x0001752a      0x346 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ .debug_info    0x00017870     0x1038 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .debug_info    0x000188a8      0x108 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .debug_info    0x000189b0       0xba C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+ .debug_info    0x00018a6a      0x397 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .debug_info    0x00018e01      0x34d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+ .debug_info    0x0001914e      0x2de C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .debug_info    0x0001942c     0x2acb C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .debug_info    0x0001bef7      0x924 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+ .debug_info    0x0001c81b       0xdc C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+ .debug_info    0x0001c8f7       0xdc C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+ .debug_info    0x0001c9d3      0x36a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .debug_info    0x0001cd3d      0x30e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .debug_info    0x0001d04b      0x171 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .debug_info    0x0001d1bc      0x187 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .debug_info    0x0001d343       0xac C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+
+.debug_abbrev   0x00000000     0x5577
+ .debug_abbrev  0x00000000      0x189 obj\Debug\AX_Radio_Lab_output\config.o
+ .debug_abbrev  0x00000189       0x7b obj\Debug\AX_Radio_Lab_output\configslave.o
+ .debug_abbrev  0x00000204       0x26 obj\Debug\COMMON\display_com0.o
+ .debug_abbrev  0x0000022a      0x411 obj\Debug\COMMON\easyax5043.o
+ .debug_abbrev  0x0000063b      0x148 obj\Debug\COMMON\misc.o
+ .debug_abbrev  0x00000783      0x125 obj\Debug\SLAVE\display.o
+ .debug_abbrev  0x000008a8      0x216 obj\Debug\SLAVE\jci.o
+ .debug_abbrev  0x00000abe      0x119 obj\Debug\SLAVE\lposc.o
+ .debug_abbrev  0x00000bd7      0x2f2 obj\Debug\SLAVE\main.o
+ .debug_abbrev  0x00000ec9      0x3c6 obj\Debug\SLAVE\printf.o
+ .debug_abbrev  0x0000128f       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+ .debug_abbrev  0x000012a3      0x28d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .debug_abbrev  0x00001530       0x9d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .debug_abbrev  0x000015cd       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .debug_abbrev  0x0000163c       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .debug_abbrev  0x000016ab       0x96 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .debug_abbrev  0x00001741       0x60 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+ .debug_abbrev  0x000017a1       0x60 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .debug_abbrev  0x00001801       0x60 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .debug_abbrev  0x00001861       0x60 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .debug_abbrev  0x000018c1       0x83 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .debug_abbrev  0x00001944       0x60 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .debug_abbrev  0x000019a4       0x51 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .debug_abbrev  0x000019f5       0xcb C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .debug_abbrev  0x00001ac0       0xc5 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+ .debug_abbrev  0x00001b85      0x1d5 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .debug_abbrev  0x00001d5a      0x1d5 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .debug_abbrev  0x00001f2f      0x1d5 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .debug_abbrev  0x00002104      0x1f8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .debug_abbrev  0x000022fc      0x443 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .debug_abbrev  0x0000273f      0x17d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .debug_abbrev  0x000028bc      0x18e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .debug_abbrev  0x00002a4a      0x1c7 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .debug_abbrev  0x00002c11       0xc6 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .debug_abbrev  0x00002cd7      0x18a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .debug_abbrev  0x00002e61      0x1bc C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .debug_abbrev  0x0000301d      0x1bc C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .debug_abbrev  0x000031d9      0x1a5 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+ .debug_abbrev  0x0000337e      0x19b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .debug_abbrev  0x00003519      0x19b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .debug_abbrev  0x000036b4      0x10b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .debug_abbrev  0x000037bf      0x10e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .debug_abbrev  0x000038cd       0xe3 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .debug_abbrev  0x000039b0       0xff C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .debug_abbrev  0x00003aaf       0xef C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .debug_abbrev  0x00003b9e      0x208 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .debug_abbrev  0x00003da6      0x1f2 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .debug_abbrev  0x00003f98      0x29c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .debug_abbrev  0x00004234       0xea C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+ .debug_abbrev  0x0000431e      0x144 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ .debug_abbrev  0x00004462      0x2e3 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .debug_abbrev  0x00004745       0x8c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .debug_abbrev  0x000047d1       0x5d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+ .debug_abbrev  0x0000482e      0x130 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .debug_abbrev  0x0000495e       0xf9 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+ .debug_abbrev  0x00004a57       0xf2 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .debug_abbrev  0x00004b49      0x3cf C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .debug_abbrev  0x00004f18      0x119 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+ .debug_abbrev  0x00005031       0x5d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+ .debug_abbrev  0x0000508e       0x5d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+ .debug_abbrev  0x000050eb       0xea C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .debug_abbrev  0x000051d5      0x1af C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .debug_abbrev  0x00005384       0xc3 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .debug_abbrev  0x00005447       0xd0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .debug_abbrev  0x00005517       0x60 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+
+.debug_loc      0x00000000     0x682b
+ .debug_loc     0x00000000      0x5d0 obj\Debug\AX_Radio_Lab_output\config.o
+ .debug_loc     0x000005d0      0xe66 obj\Debug\COMMON\easyax5043.o
+ .debug_loc     0x00001436       0x96 obj\Debug\COMMON\misc.o
+ .debug_loc     0x000014cc       0x40 obj\Debug\SLAVE\display.o
+ .debug_loc     0x0000150c       0xcd obj\Debug\SLAVE\jci.o
+ .debug_loc     0x000015d9       0x5e obj\Debug\SLAVE\lposc.o
+ .debug_loc     0x00001637      0x12a obj\Debug\SLAVE\main.o
+ .debug_loc     0x00001761     0x1a11 obj\Debug\SLAVE\printf.o
+ .debug_loc     0x00003172       0xa4 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .debug_loc     0x00003216       0x80 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .debug_loc     0x00003296       0x3c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .debug_loc     0x000032d2       0x3d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .debug_loc     0x0000330f       0xa1 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .debug_loc     0x000033b0       0x39 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .debug_loc     0x000033e9       0x39 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .debug_loc     0x00003422       0x70 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .debug_loc     0x00003492       0x9c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .debug_loc     0x0000352e       0x83 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .debug_loc     0x000035b1       0x1e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .debug_loc     0x000035cf       0x13 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .debug_loc     0x000035e2       0xde C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .debug_loc     0x000036c0       0xfd C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .debug_loc     0x000037bd       0xfd C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .debug_loc     0x000038ba       0xef C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .debug_loc     0x000039a9      0x46b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .debug_loc     0x00003e14       0x21 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .debug_loc     0x00003e35       0x21 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .debug_loc     0x00003e56       0x80 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .debug_loc     0x00003ed6       0x55 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .debug_loc     0x00003f2b       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .debug_loc     0x00003f57       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .debug_loc     0x00003f83       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .debug_loc     0x00003faf       0x4f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .debug_loc     0x00003ffe       0x4f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .debug_loc     0x0000404d      0x157 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .debug_loc     0x000041a4      0x18c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .debug_loc     0x00004330       0x42 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .debug_loc     0x00004372       0x21 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .debug_loc     0x00004393       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .debug_loc     0x000043bf      0x186 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .debug_loc     0x00004545      0x186 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .debug_loc     0x000046cb      0x132 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .debug_loc     0x000047fd       0x13 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ .debug_loc     0x00004810      0x283 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .debug_loc     0x00004a93       0x42 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .debug_loc     0x00004ad5       0x32 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .debug_loc     0x00004b07      0x111 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .debug_loc     0x00004c18     0x1917 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .debug_loc     0x0000652f       0x5f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .debug_loc     0x0000658e       0x46 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .debug_loc     0x000065d4      0x109 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .debug_loc     0x000066dd      0x14e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+
+.debug_aranges  0x00000000      0x7f8
+ .debug_aranges
+                0x00000000       0x20 obj\Debug\AX_Radio_Lab_output\config.o
+ .debug_aranges
+                0x00000020       0x18 obj\Debug\AX_Radio_Lab_output\configslave.o
+ .debug_aranges
+                0x00000038       0x18 obj\Debug\COMMON\display_com0.o
+ .debug_aranges
+                0x00000050       0x20 obj\Debug\COMMON\easyax5043.o
+ .debug_aranges
+                0x00000070       0x20 obj\Debug\COMMON\misc.o
+ .debug_aranges
+                0x00000090       0x20 obj\Debug\SLAVE\display.o
+ .debug_aranges
+                0x000000b0       0x20 obj\Debug\SLAVE\jci.o
+ .debug_aranges
+                0x000000d0       0x20 obj\Debug\SLAVE\lposc.o
+ .debug_aranges
+                0x000000f0       0x28 obj\Debug\SLAVE\main.o
+ .debug_aranges
+                0x00000118       0x20 obj\Debug\SLAVE\printf.o
+ .debug_aranges
+                0x00000138       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+ .debug_aranges
+                0x00000158       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .debug_aranges
+                0x00000178       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .debug_aranges
+                0x00000198       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .debug_aranges
+                0x000001b8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .debug_aranges
+                0x000001d8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .debug_aranges
+                0x000001f8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+ .debug_aranges
+                0x00000218       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .debug_aranges
+                0x00000238       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .debug_aranges
+                0x00000258       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .debug_aranges
+                0x00000278       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .debug_aranges
+                0x00000298       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .debug_aranges
+                0x000002b8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .debug_aranges
+                0x000002d8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .debug_aranges
+                0x000002f8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+ .debug_aranges
+                0x00000318       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .debug_aranges
+                0x00000338       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .debug_aranges
+                0x00000358       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .debug_aranges
+                0x00000378       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .debug_aranges
+                0x00000398       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .debug_aranges
+                0x000003b8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .debug_aranges
+                0x000003d8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .debug_aranges
+                0x000003f8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .debug_aranges
+                0x00000418       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .debug_aranges
+                0x00000438       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .debug_aranges
+                0x00000458       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .debug_aranges
+                0x00000478       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .debug_aranges
+                0x00000498       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+ .debug_aranges
+                0x000004b8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .debug_aranges
+                0x000004d8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .debug_aranges
+                0x000004f8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .debug_aranges
+                0x00000518       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .debug_aranges
+                0x00000538       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .debug_aranges
+                0x00000558       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .debug_aranges
+                0x00000578       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .debug_aranges
+                0x00000598       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .debug_aranges
+                0x000005b8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .debug_aranges
+                0x000005d8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .debug_aranges
+                0x000005f8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+ .debug_aranges
+                0x00000618       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ .debug_aranges
+                0x00000638       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .debug_aranges
+                0x00000658       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .debug_aranges
+                0x00000678       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+ .debug_aranges
+                0x00000690       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .debug_aranges
+                0x000006b0       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+ .debug_aranges
+                0x000006d0       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .debug_aranges
+                0x000006f0       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .debug_aranges
+                0x00000710       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+ .debug_aranges
+                0x00000728       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+ .debug_aranges
+                0x00000740       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+ .debug_aranges
+                0x00000758       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .debug_aranges
+                0x00000778       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .debug_aranges
+                0x00000798       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .debug_aranges
+                0x000007b8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .debug_aranges
+                0x000007d8       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+
+.debug_line     0x00000000     0x5a9c
+ .debug_line    0x00000000      0x292 obj\Debug\AX_Radio_Lab_output\config.o
+ .debug_line    0x00000292      0x13e obj\Debug\AX_Radio_Lab_output\configslave.o
+ .debug_line    0x000003d0       0x1d obj\Debug\COMMON\display_com0.o
+ .debug_line    0x000003ed      0xab2 obj\Debug\COMMON\easyax5043.o
+ .debug_line    0x00000e9f      0x18a obj\Debug\COMMON\misc.o
+ .debug_line    0x00001029      0x186 obj\Debug\SLAVE\display.o
+ .debug_line    0x000011af      0x1fc obj\Debug\SLAVE\jci.o
+ .debug_line    0x000013ab      0x246 obj\Debug\SLAVE\lposc.o
+ .debug_line    0x000015f1      0x390 obj\Debug\SLAVE\main.o
+ .debug_line    0x00001981      0x4cf obj\Debug\SLAVE\printf.o
+ .debug_line    0x00001e50       0x72 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startup_ARMCM0plus.o)
+ .debug_line    0x00001ec2      0x240 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .debug_line    0x00002102       0xcd C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .debug_line    0x000021cf       0xc7 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .debug_line    0x00002296       0xb7 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .debug_line    0x0000234d       0xc6 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .debug_line    0x00002413       0xa9 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+ .debug_line    0x000024bc       0xaf C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .debug_line    0x0000256b       0xaf C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .debug_line    0x0000261a       0xb1 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .debug_line    0x000026cb       0xaf C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .debug_line    0x0000277a       0xaf C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .debug_line    0x00002829       0x46 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .debug_line    0x0000286f       0xbe C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .debug_line    0x0000292d       0xfd C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+ .debug_line    0x00002a2a      0x13f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .debug_line    0x00002b69      0x148 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .debug_line    0x00002cb1      0x146 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .debug_line    0x00002df7      0x14b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .debug_line    0x00002f42      0x320 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .debug_line    0x00003262      0x123 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .debug_line    0x00003385      0x123 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .debug_line    0x000034a8      0x167 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .debug_line    0x0000360f       0xd3 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .debug_line    0x000036e2      0x126 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .debug_line    0x00003808      0x129 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .debug_line    0x00003931      0x129 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .debug_line    0x00003a5a      0x124 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+ .debug_line    0x00003b7e      0x125 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .debug_line    0x00003ca3      0x127 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .debug_line    0x00003dca       0xd6 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .debug_line    0x00003ea0      0x10e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .debug_line    0x00003fae       0xd3 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .debug_line    0x00004081       0xcf C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .debug_line    0x00004150       0xd0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .debug_line    0x00004220      0x155 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .debug_line    0x00004375      0x14c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .debug_line    0x000044c1      0x226 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .debug_line    0x000046e7       0xec C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+ .debug_line    0x000047d3      0x100 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ .debug_line    0x000048d3      0x280 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .debug_line    0x00004b53       0xc1 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .debug_line    0x00004c14       0x9a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+ .debug_line    0x00004cae      0x113 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .debug_line    0x00004dc1      0x10f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+ .debug_line    0x00004ed0       0xe5 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .debug_line    0x00004fb5      0x519 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .debug_line    0x000054ce       0xb5 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+ .debug_line    0x00005583       0x98 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+ .debug_line    0x0000561b       0x98 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+ .debug_line    0x000056b3       0xe8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .debug_line    0x0000579b      0x12e C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .debug_line    0x000058c9       0xba C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .debug_line    0x00005983       0xc4 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .debug_line    0x00005a47       0x55 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+
+.debug_str      0x00000000     0x7033
+ .debug_str     0x00000000      0xb1c obj\Debug\AX_Radio_Lab_output\config.o
+                                0xb86 (size before relaxing)
+ .debug_str     0x00000b1c       0x97 obj\Debug\AX_Radio_Lab_output\configslave.o
+                                0x257 (size before relaxing)
+ .debug_str     0x00000bb3       0x19 obj\Debug\COMMON\display_com0.o
+                                0x194 (size before relaxing)
+ .debug_str     0x00000bcc      0xeef obj\Debug\COMMON\easyax5043.o
+                               0x185e (size before relaxing)
+ .debug_str     0x00001abb       0x7c obj\Debug\COMMON\misc.o
+                                0x2ac (size before relaxing)
+ .debug_str     0x00001b37       0x6b obj\Debug\SLAVE\display.o
+                                0x36b (size before relaxing)
+ .debug_str     0x00001ba2      0x20e obj\Debug\SLAVE\jci.o
+                                0x518 (size before relaxing)
+ .debug_str     0x00001db0       0x39 obj\Debug\SLAVE\lposc.o
+                                0x234 (size before relaxing)
+ .debug_str     0x00001de9      0x1b1 obj\Debug\SLAVE\main.o
+                                0xa1a (size before relaxing)
+ .debug_str     0x00001f9a      0x1a0 obj\Debug\SLAVE\printf.o
+                                0x38b (size before relaxing)
+ .debug_str     0x0000213a     0x3feb C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+                               0x4287 (size before relaxing)
+ .debug_str     0x00006125       0x24 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+                                0x1a8 (size before relaxing)
+ .debug_str     0x00006149       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x0000615d       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00006171       0x13 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+                                0x1a9 (size before relaxing)
+ .debug_str     0x00006184       0x16 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+                                0x194 (size before relaxing)
+ .debug_str     0x0000619a       0x16 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+                                0x182 (size before relaxing)
+ .debug_str     0x000061b0       0x16 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+                                0x182 (size before relaxing)
+ .debug_str     0x000061c6       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+                                0x19c (size before relaxing)
+ .debug_str     0x000061de       0x15 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+                                0x182 (size before relaxing)
+ .debug_str     0x000061f3       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+                                0x19c (size before relaxing)
+ .debug_str     0x0000620b       0x12 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+                                0x165 (size before relaxing)
+ .debug_str     0x0000621d       0x17 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+                                0x339 (size before relaxing)
+ .debug_str     0x00006234       0x1a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+                                0x1b8 (size before relaxing)
+ .debug_str     0x0000624e       0x37 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+                                0x69d (size before relaxing)
+ .debug_str     0x00006285       0x16 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+                                0x69f (size before relaxing)
+ .debug_str     0x0000629b       0x16 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+                                0x69f (size before relaxing)
+ .debug_str     0x000062b1       0x15 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+                                0x69e (size before relaxing)
+ .debug_str     0x000062c6      0x264 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+                                0x8c2 (size before relaxing)
+ .debug_str     0x0000652a       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+                                0x244 (size before relaxing)
+ .debug_str     0x0000653e       0x29 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+                                0x25c (size before relaxing)
+ .debug_str     0x00006567       0x25 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+                                0x356 (size before relaxing)
+ .debug_str     0x0000658c       0x2a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+                                0x279 (size before relaxing)
+ .debug_str     0x000065b6       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+                                0x25d (size before relaxing)
+ .debug_str     0x000065ca       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+                                0x296 (size before relaxing)
+ .debug_str     0x000065de       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+                                0x296 (size before relaxing)
+ .debug_str     0x000065f2       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+                                0x26e (size before relaxing)
+ .debug_str     0x00006606       0x29 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+                                0x290 (size before relaxing)
+ .debug_str     0x0000662f       0x2a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+                                0x2a6 (size before relaxing)
+ .debug_str     0x00006659       0x3a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+                                0x301 (size before relaxing)
+ .debug_str     0x00006693      0x2da C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+                                0x5dc (size before relaxing)
+ .debug_str     0x0000696d       0x6f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+                                0x3c4 (size before relaxing)
+ .debug_str     0x000069dc       0x49 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+                                0x39e (size before relaxing)
+ .debug_str     0x00006a25       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+                                0x383 (size before relaxing)
+ .debug_str     0x00006a4d       0x36 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+                                0x6b3 (size before relaxing)
+ .debug_str     0x00006a83       0x17 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+                                0x6b4 (size before relaxing)
+ .debug_str     0x00006a9a       0xd8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+                                0x74a (size before relaxing)
+ .debug_str     0x00006b72       0x1c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+                                0x271 (size before relaxing)
+ .debug_str     0x00006b8e       0x1a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+                                0x2b6 (size before relaxing)
+ .debug_str     0x00006ba8      0x17f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+                                0xa22 (size before relaxing)
+ .debug_str     0x00006d27       0x24 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+                                0x1a6 (size before relaxing)
+ .debug_str     0x00006d4b       0x17 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16table.o)
+                                0x188 (size before relaxing)
+ .debug_str     0x00006d62       0x2f C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+                                0x387 (size before relaxing)
+ .debug_str     0x00006d91       0x16 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+                                0x35f (size before relaxing)
+ .debug_str     0x00006da7       0x12 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+                                0x271 (size before relaxing)
+ .debug_str     0x00006db9      0x15d C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+                                0xd30 (size before relaxing)
+ .debug_str     0x00006f16       0x71 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart0.o)
+                                0x7fa (size before relaxing)
+ .debug_str     0x00006f87       0x15 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0txbuf.o)
+                                0x1ab (size before relaxing)
+ .debug_str     0x00006f9c       0x15 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rxbuf.o)
+                                0x1ab (size before relaxing)
+ .debug_str     0x00006fb1       0x25 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+                                0x283 (size before relaxing)
+ .debug_str     0x00006fd6       0x1a C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+                                0x26d (size before relaxing)
+ .debug_str     0x00006ff0       0x1b C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+                                0x1a0 (size before relaxing)
+ .debug_str     0x0000700b       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+                                0x1b2 (size before relaxing)
+ .debug_str     0x0000701f       0x14 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+                                0x17e (size before relaxing)
+
+.debug_frame    0x00000000     0x1f70
+ .debug_frame   0x00000000      0x18c obj\Debug\AX_Radio_Lab_output\config.o
+ .debug_frame   0x0000018c      0x404 obj\Debug\COMMON\easyax5043.o
+ .debug_frame   0x00000590       0x5c obj\Debug\COMMON\misc.o
+ .debug_frame   0x000005ec       0x3c obj\Debug\SLAVE\display.o
+ .debug_frame   0x00000628       0x98 obj\Debug\SLAVE\jci.o
+ .debug_frame   0x000006c0       0x44 obj\Debug\SLAVE\lposc.o
+ .debug_frame   0x00000704       0x64 obj\Debug\SLAVE\main.o
+ .debug_frame   0x00000768      0x214 obj\Debug\SLAVE\printf.o
+ .debug_frame   0x0000097c       0x54 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .debug_frame   0x000009d0       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansib.o)
+ .debug_frame   0x000009fc       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9bits.o)
+ .debug_frame   0x00000a28       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9byte.o)
+ .debug_frame   0x00000a54       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(pn9buf.o)
+ .debug_frame   0x00000a80       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext16.o)
+ .debug_frame   0x00000aa0       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext20.o)
+ .debug_frame   0x00000ac0       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(signext24.o)
+ .debug_frame   0x00000ae0       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim16.o)
+ .debug_frame   0x00000b00       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sgnlim16.o)
+ .debug_frame   0x00000b20       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(chksgnlim32.o)
+ .debug_frame   0x00000b40       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(delay.o)
+ .debug_frame   0x00000b60       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(startcause.o)
+ .debug_frame   0x00000b80       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(standby.o)
+ .debug_frame   0x00000ba0       0x34 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord8.o)
+ .debug_frame   0x00000bd4       0x34 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord16.o)
+ .debug_frame   0x00000c08       0x34 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiord24.o)
+ .debug_frame   0x00000c3c       0x34 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .debug_frame   0x00000c70      0x1b4 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .debug_frame   0x00000e24       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbadd.o)
+ .debug_frame   0x00000e4c       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtcbrem.o)
+ .debug_frame   0x00000e74       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0setcfg.o)
+ .debug_frame   0x00000ea0       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1setcfg.o)
+ .debug_frame   0x00000ecc       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0adda.o)
+ .debug_frame   0x00000ef8       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0addr.o)
+ .debug_frame   0x00000f24       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1addr.o)
+ .debug_frame   0x00000f50       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt0curt.o)
+ .debug_frame   0x00000f78       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt1rem.o)
+ .debug_frame   0x00000fa4       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wt01rem.o)
+ .debug_frame   0x00000fd0       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .debug_frame   0x00000ff8      0x1d8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0init.o)
+ .debug_frame   0x000011d0       0x58 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0tx.o)
+ .debug_frame   0x00001228       0x40 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0rx.o)
+ .debug_frame   0x00001268       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uart0wrstr.o)
+ .debug_frame   0x00001290       0x30 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .debug_frame   0x000012c0       0x34 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043wrfifo.o)
+ .debug_frame   0x000012f4       0xb8 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .debug_frame   0x000013ac       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043commslpexit.o)
+ .debug_frame   0x000013d4       0x40 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043deepsleep.o)
+ .debug_frame   0x00001414       0x88 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .debug_frame   0x0000149c       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(crc16ansi.o)
+ .debug_frame   0x000014bc       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleep.o)
+ .debug_frame   0x000014dc       0x20 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(sleepcont.o)
+ .debug_frame   0x000014fc       0x40 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtrem.o)
+ .debug_frame   0x0000153c      0x3b0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .debug_frame   0x000018ec       0x30 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiodswakecore.o)
+ .debug_frame   0x0000191c       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rclkena.o)
+ .debug_frame   0x00001944       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .debug_frame   0x00001970       0x2c C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)
+ .debug_frame   0x0000199c       0x28 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtstdby.o)
+ .debug_frame   0x000019c4       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000019e4       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+ .debug_frame   0x00001a04       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_fixunsdfsi.o)
+ .debug_frame   0x00001a30       0x3c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00001a6c       0x3c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(adddf3.o)
+ .debug_frame   0x00001aa8       0x3c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(divdf3.o)
+ .debug_frame   0x00001ae4       0x38 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(eqdf2.o)
+ .debug_frame   0x00001b1c       0x38 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(gedf2.o)
+ .debug_frame   0x00001b54       0x38 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(ledf2.o)
+ .debug_frame   0x00001b8c       0x3c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(muldf3.o)
+ .debug_frame   0x00001bc8       0x38 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(subdf3.o)
+ .debug_frame   0x00001c00       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(fixdfsi.o)
+ .debug_frame   0x00001c2c       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatsidf.o)
+ .debug_frame   0x00001c58       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(floatunsidf.o)
+ .debug_frame   0x00001c84       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(extendsfdf2.o)
+ .debug_frame   0x00001cb0       0x28 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00001cd8       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00001d04       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00001d30       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00001d5c       0x8c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strstr.o)
+ .debug_frame   0x00001de8       0x54 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001e3c       0x28 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00001e64       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00001e90       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00001ebc       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00001ee8       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-strchr.o)
+ .debug_frame   0x00001f14       0x3c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00001f50       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+
+.debug_ranges   0x00000000      0x560
+ .debug_ranges  0x00000000      0x148 obj\Debug\COMMON\easyax5043.o
+ .debug_ranges  0x00000148       0xa8 obj\Debug\SLAVE\main.o
+ .debug_ranges  0x000001f0       0x68 obj\Debug\SLAVE\printf.o
+ .debug_ranges  0x00000258       0x30 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(system_ARMCM0plus.o)
+ .debug_ranges  0x00000288       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(radiowr8.o)
+ .debug_ranges  0x000002a0       0xc0 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wtimer.o)
+ .debug_ranges  0x00000360       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(uarttimer1.o)
+ .debug_ranges  0x00000378       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043rdfifo.o)
+ .debug_ranges  0x00000390       0x40 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(ax5043reset.o)
+ .debug_ranges  0x000003d0      0x118 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(setupcal.o)
+ .debug_ranges  0x000004e8       0x48 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(axm0_uart.o)
+ .debug_ranges  0x00000530       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum16.o)
+ .debug_ranges  0x00000548       0x18 C:\Program Files (x86)\ON Semiconductor\AXSDB\libmf\arm\libmff2.a(wrnum32.o)

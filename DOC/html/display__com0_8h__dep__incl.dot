@@ -1,0 +1,17 @@
+digraph "COMMON/display_com0.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node4 [label="COMMON/display_com0.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Macro definition for display parameters."];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="COMMON/display_com0.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$display__com0_8c.html",tooltip="Display data using Uart0 port."];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="COMMON/misc.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$misc_8c.html",tooltip="Display error messages & perform delay in using timer."];
+  Node4 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="SLAVE/display.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$display_8c.html",tooltip="Display received packets in LCD/Debug link."];
+  Node4 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="SLAVE/main.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_l_a_v_e_2main_8c.html",tooltip="Code skeleton for SLAVE module, illustrating reception of packets. The packet format is determined by..."];
+  Node4 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="TESTS/main.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_t_e_s_t_s_2main_8c.html",tooltip="Provides basic evaluation functions like transmitting CW or measuring BER from a 101010 bit stream Ra..."];
+}

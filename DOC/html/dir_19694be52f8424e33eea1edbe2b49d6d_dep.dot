@@ -1,0 +1,8 @@
+digraph "SLAVE" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  dir_19694be52f8424e33eea1edbe2b49d6d [shape=box, label="SLAVE", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_19694be52f8424e33eea1edbe2b49d6d.html"];
+  dir_7df49ef0c5f0d4b2a785a319ccac4397 [shape=box label="COMMON" URL="dir_7df49ef0c5f0d4b2a785a319ccac4397.html"];
+  dir_19694be52f8424e33eea1edbe2b49d6d->dir_7df49ef0c5f0d4b2a785a319ccac4397 [headlabel="7", labeldistance=1.5 headhref="dir_000003_000001.html"];
+}
